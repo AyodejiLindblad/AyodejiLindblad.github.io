@@ -1,18 +1,13 @@
 ---
+title: Home
+layout: default
 ---
 
 {% include mathjax.html %}
 
-Skip to main content
-
-Skip to navigation
-
 [![](https://lh3.googleusercontent.com/sitesv/AAzXCkdtFcZUgCTWbBGUdmn9iWapl2uABpNwTO1GPaV1OcTvazd3CAYGdWm7DQHCltwIZwcbff2z3OpPOwWdjR9I_NFih5a5oFW5WA0kBl8u4ir2oMc0RVzdwSzFzCbQe5Xr_1O7bdVISGDlp8HMitPk6j3yaUKciaRY9pQBR7ropxtUxHsmhSzIjg0i=w16383)Ayodeji Lindblad](/view/ayodeji/home?authuser=0)
 
 Welcome to my website.
-
-
-=================================================
 
 My CV can be found [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link) and the research papers I've written are listed below:
 
