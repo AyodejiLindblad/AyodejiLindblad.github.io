@@ -1,0 +1,36 @@
+# Site Settings
+title: Ayodeji Lindblad
+description: >
+  Ayodeji Lindblad
+baseurl: ''
+url: 'https://ayodejilindblad.com'
+og_image: "https://ayodejilindblad.com/resources/imgs/icon.jpg"
+github_username: ayodejilindblad
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+github: [metadata]
+encoding: UTF-8
+kramdown:
+ input: GFM
+ hard_wrap: false
+ mathjax: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
+
+highlighter: rouge
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      include_side_nav: true
+      include_math_jax: false
+      include_jquery: false
+      include_plotlyjs: false
+      layout: "default"
