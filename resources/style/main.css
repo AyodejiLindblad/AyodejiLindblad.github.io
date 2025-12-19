@@ -1,3 +1,17 @@
+/* Default style for larger screens */
+body {
+    max-width: 100ch;
+    margin: 0 auto; /* Optional: centers the layout on desktop */
+}
+
+/* Style for phones (screens smaller than 768px) */
+@media (max-width: 768px) {
+    body {
+        max-width: 100%;
+        padding: 0 1rem; /* Optional: adds a little breathing room on the edges */
+    }
+}
+
 figure img, img.figure, img.small_figure {
     width: auto;
     height: auto;
