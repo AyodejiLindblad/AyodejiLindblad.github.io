@@ -2,6 +2,8 @@
 body {
     max-width: 100ch;
     margin: 0 auto; /* Optional: centers the layout on desktop */
+
+    font-family: 'Computer Modern Serif', serif;
 }
 
 /* Style for phones (screens smaller than 768px) */
@@ -18,7 +20,7 @@ figure img, img.figure, img.small_figure {
     display: block;
     margin: 3em auto;
     max-width: 90%;
-    max-height: 200px;
+    max-height: 150px;
 }
 
 figcaption {
