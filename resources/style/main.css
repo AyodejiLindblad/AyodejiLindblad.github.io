@@ -1,0 +1,16 @@
+figure img, img.figure, img.small_figure {
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 3em auto;
+    max-height: 50vh;
+    max-width: 90%;
+}
+
+figcaption {
+    margin: auto;
+    margin-top: -2em;
+    margin-bottom: 2em;
+    width: 95%;
+    text-align: center;
+}
