@@ -209,13 +209,14 @@ Coming soon!
 
 ---
 
-This page has had <span id="site-total-number">—</span>
+This site has had <span id="site-total-number">—</span> total views.
+
 <script>
   fetch('https://ayodejilindblad.goatcounter.com/counter/TOTAL.json')
     .then(r => r.json())
     .then(d => { document.getElementById('site-total-number').textContent = d.count; })
     .catch(() => {});
-</script> views since its creation in late 2025.
+</script>
 
 
 <br>
