@@ -4,6 +4,7 @@ body {
     margin: 0 auto; /* Optional: centers the layout on desktop */
 
     font-family: 'Computer Modern Serif', serif;
+    font-size: 18px
 }
 
 /* Style for phones (screens smaller than 768px) */
@@ -11,7 +12,6 @@ body {
     body {
         max-width: 100%;
         padding: 0 1rem; /* Optional: adds a little breathing room on the edges */
-        font-size: 1px
     }
 }
 
