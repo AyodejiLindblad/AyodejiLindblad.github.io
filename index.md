@@ -21,13 +21,13 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
-<span style="display:block; height:0.25em;"></span>
+<span style="display:block; height:0.1em;"></span>
 
 ---
 
 **Welcome to my website.**
 
-I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. You can find my CV [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link).
+I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my CV [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link).
 
 
 ---
