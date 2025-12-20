@@ -37,6 +37,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Research:**
 
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
+    <span style="display:block; height:0.25em;"></span>
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere $\Sigma$. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)), which verified the cases when $\Sigma$ is a complex projective space or $S^2$.
     
 * A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
@@ -58,7 +59,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 **Expository:**
 
-* [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
+* [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
 
 * [E. Colón](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
         
@@ -69,7 +70,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Talks:**
 
 * [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025. 
-    I discussed geometric constructions of [spherical t\-designs](https://drive.google.com/file/d/1x8kh1ir3qsDPOWAqWsjstV5C3obETxlV/view?usp=sharing) and [t\-design curves](https://drive.google.com/file/d/1HlHE2oS-M53LNbNKoZkpfpfi2fw-S6Yq/view?usp=sharing).
+    I discussed geometric constructions of spherical $t$\-designs and $t$\-design curves, with a focus on my work in both settings.
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 10/15/2024.  
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://arxiv.org/abs/math/0104024) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
@@ -189,5 +190,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     </figcaption>
   </figure>
 </div>
+
+---<a id="figures"></a>
+
+**Fun:**
+
+Coming soon!
 
 <br>
