@@ -218,7 +218,7 @@ This page has been loaded <span id="site-total-number">—</span> total times si
     .catch(() => {});
 </script>
 
-Many thanks to my good friend [Torque](http://www.itstorque.com/), who helped greatly to set up this site!
+Many thanks to my good friend [Torque](http://www.itstorque.com/), who helped greatly to set up the site!
 
 
 <br>
