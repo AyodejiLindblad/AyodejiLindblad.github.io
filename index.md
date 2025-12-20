@@ -11,7 +11,7 @@ layout: default
 </figure>
 </div>
 
-<h1 style="text-align:center; margin-top:0; font-size: 2.6rem; line-height: 1.05;">
+<h1 style="text-align:center; margin-top:0; font-size: 2.4rem; line-height: 1.05;">
   Ayodeji Lindblad
 </h1>
 
