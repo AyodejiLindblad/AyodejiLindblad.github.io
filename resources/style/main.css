@@ -11,6 +11,7 @@ body {
     body {
         max-width: 100%;
         padding: 0 1rem; /* Optional: adds a little breathing room on the edges */
+        font-size: 1px
     }
 }
 
