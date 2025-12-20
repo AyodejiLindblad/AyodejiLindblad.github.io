@@ -21,10 +21,13 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
+---
+
 **Welcome to my website.**
 
 I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. You can find my CV [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link).
 
+---
 
 <a id="research"></a>
 **Research:**
@@ -45,6 +48,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     
 * A. Lindblad. Lifting design curves. *In preparation*, 2026.
         
+---
 
 <a id="expository"></a>
 **Expository:**
@@ -53,6 +57,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 * [E. Colón](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
         
+---
 
 <a id="talks"></a>
 **Talks:**
@@ -69,6 +74,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 * [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 4/6/2024.  
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my paper of the same name.
     
+---
 
 <a id="organization"></a>
 **Organization:**
@@ -76,6 +82,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 4/2-4/4/2025.  
     A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](https://drive.google.com/file/d/1eQs8u07aWJ1T0SiU6org20qM1ncSOUr5/view?usp=drivesdk).
 
+---
 
 <a id="figures"></a>
 **Figures:**

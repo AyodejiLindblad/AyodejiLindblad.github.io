@@ -31,3 +31,10 @@ figcaption {
     width: 95%;
     text-align: center;
 }
+
+hr {
+  border: 0;
+  border-top: 1px solid #000;   /* solid line */
+  margin: 2rem 0;               /* spacing above/below */
+  width: 100%;                  /* exactly the container/text width */
+}
