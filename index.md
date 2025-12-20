@@ -95,18 +95,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <a id="figures"></a>
 
   
-<div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0; --img-maxh: 320px;">
+<div style="flex: 1; text-align: center; --img-width: 500px;">
+  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/polyex.jpg"
-      style="
-        max-height: var(--img-maxh, 320px);
-        width: auto;
-        height: auto;
-        max-width: 100%;
-        display: block;
-        margin: 0 auto;
-      "
+      style="width: 100%; height: auto; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -114,30 +107,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         font-size: 0.9em;
         margin-top: 10px;
         width: 100%;
-        box-sizing: border-box;
         overflow-wrap: anywhere;
+        word-break: break-word;
       "
     >
       <a href="https://link.springer.com/content/pdf/10.1007/s00454-025-00805-7.pdf"
-         style="display: inline-block; max-width: 100%; overflow-wrap: anywhere;">
+         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         Values of a polynomial $f$ on Hopf fibers and the polynomial on the 2-sphere whose value at a point is the average of $f$ on the Hopf fiber associated to that point
       </a>
     </figcaption>
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0; --img-maxh: 280px;">
+<div style="flex: 1; text-align: center; --img-width: 500px;">
+  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/fano.png"
-      style="
-        max-height: var(--img-maxh, 280px);
-        width: auto;
-        height: auto;
-        max-width: 100%;
-        display: block;
-        margin: 0 auto;
-      "
+      style="width: 100%; height: auto; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -145,30 +131,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         font-size: 0.9em;
         margin-top: 10px;
         width: 100%;
-        box-sizing: border-box;
         overflow-wrap: anywhere;
+        word-break: break-word;
       "
     >
       <a href="https://link.springer.com/content/pdf/10.1007/s00454-025-00805-7.pdf"
-         style="display: inline-block; max-width: 100%; overflow-wrap: anywhere;">
+         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         The Fano plane, which visualizes how to multiply octonions.
       </a>
     </figcaption>
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0; --img-maxh: 320px;">
+<div style="flex: 1; text-align: center; --img-width: 500px;">
+  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/S3ex.png"
-      style="
-        max-height: var(--img-maxh, 320px);
-        width: auto;
-        height: auto;
-        max-width: 100%;
-        display: block;
-        margin: 0 auto;
-      "
+      style="width: 100%; height: auto; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -176,30 +155,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         font-size: 0.9em;
         margin-top: 10px;
         width: 100%;
-        box-sizing: border-box;
         overflow-wrap: anywhere;
+        word-break: break-word;
       "
     >
       <a href="https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk"
-         style="display: inline-block; max-width: 100%; overflow-wrap: anywhere;">
+         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A 3-design curve—a curve whose associated line integral averages all degree at most 3 polynomials—on the 3-sphere
       </a>
     </figcaption>
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0; --img-maxh: 280px;">
+<div style="flex: 1; text-align: center; --img-width: 500px;">
+  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/torusex.png"
-      style="
-        max-height: var(--img-maxh, 280px);
-        width: auto;
-        height: auto;
-        max-width: 100%;
-        display: block;
-        margin: 0 auto;
-      "
+      style="width: 100%; height: auto; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -207,17 +179,16 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         font-size: 0.9em;
         margin-top: 10px;
         width: 100%;
-        box-sizing: border-box;
         overflow-wrap: anywhere;
+        word-break: break-word;
       "
     >
       <a href="https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk"
-         style="display: inline-block; max-width: 100%; overflow-wrap: anywhere;">
+         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         3-design curves—curves whose associated line integrals average all degree at most 3 polynomials—on tori
       </a>
     </figcaption>
   </figure>
 </div>
-
 
 <br>
