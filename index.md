@@ -106,7 +106,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 600px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/polyex.jpg"
+      src="/resources/imgs/PolyExample.jpg"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -131,7 +131,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 450px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/fano.png"
+      src="/resources/imgs/Fano.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -181,7 +181,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 550px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/torusex.png"
+      src="/resources/imgs/Torusex.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
