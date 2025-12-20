@@ -32,9 +32,19 @@ figcaption {
     text-align: center;
 }
 
+/* make solid line all the way across the screen */
 hr {
   border: 0;
   border-top: 1px solid #000;   /* solid line */
   margin: 2rem 0;               /* spacing above/below */
   width: 100%;                  /* exactly the container/text width */
+}
+
+/* make solid line 600px long at most */
+hr.divider-600 {
+  width: 600px;
+  max-width: calc(100% - 2rem); /* keeps a little gap on small screens */
+  margin: 2.5rem auto;
+  border: 0;
+  border-top: 1px solid currentColor;
 }
