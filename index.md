@@ -11,7 +11,9 @@ layout: default
 </figure>
 </div>
 
-<h1 style="text-align: center; margin-top: 0;">Ayodeji Lindblad</h1>
+<h1 style="text-align:center; margin-top:0; font-size: 2.6rem; line-height: 1.05;">
+  Ayodeji Lindblad
+</h1>
 
 <p align="center">
   <a href="#research">Research</a> |
@@ -21,7 +23,7 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
-<span style="display:block; height:0.1em;"></span>
+<span style="display:block; height:0.05em;"></span>
 
 ---
 
