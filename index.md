@@ -13,11 +13,15 @@ layout: default
 
 <h1 style="text-align: center; margin-top: 0;">Ayodeji Lindblad</h1>
 
+<p align="center">[Research](#research) | [Expository](#expository) | [Talks](#talks) | [Organization](#organization) | [Figures](#figures)</p>
+
 **Welcome to my website.**
 
 I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. You can find my CV [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link).
 
-**Research papers:**
+
+<a id="research"></a>
+**Research:**
 
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere $\Sigma$. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)), which verified the cases when $\Sigma$ is a complex projective space or $S^2$.
@@ -36,16 +40,18 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 * A. Lindblad. Lifting design curves. *In preparation*, 2026.
         
 
-**Expository works:**
+<a id="expository"></a>
+**Expository:**
 
 * [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
 
 * [E. Colón](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
         
 
+<a id="talks"></a>
 **Talks:**
 
-* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025.
+* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025. 
     I discussed geometric constructions of [spherical t\-designs](https://drive.google.com/file/d/1x8kh1ir3qsDPOWAqWsjstV5C3obETxlV/view?usp=sharing) and [t\-design curves](https://drive.google.com/file/d/1HlHE2oS-M53LNbNKoZkpfpfi2fw-S6Yq/view?usp=sharing).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 10/15/2024.  
@@ -58,11 +64,15 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my paper of the same name.
     
 
-**Meetings organized:**
+<a id="organization"></a>
+**Organization:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 4/2-4/4/2025.  
     A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](https://drive.google.com/file/d/1eQs8u07aWJ1T0SiU6org20qM1ncSOUr5/view?usp=drivesdk).
-    
+
+
+<a id="figures"></a>
+**Figures:**
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
   
