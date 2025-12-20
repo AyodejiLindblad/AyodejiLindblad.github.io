@@ -218,7 +218,7 @@ This page has had <span id="site-total-number">—</span> total views since its 
     .catch(() => {});
 </script>
 
-Many thanks to my good friend [Torque](http://www.itstorque.com/), who greatly to set up this site!
+Many thanks to my good friend [Torque](http://www.itstorque.com/), who helped greatly to set up this site!
 
 
 <br>
