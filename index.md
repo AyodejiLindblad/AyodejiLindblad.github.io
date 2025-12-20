@@ -5,11 +5,19 @@ layout: default
 
 {% include mathjax.html %}
 
+<div style="text-align: center;">
+<figure>
+<img src="/resources/imgs/portrait.jpg">
+</figure>
+</div>
+
 # Ayodeji Lindblad
 
-Welcome to my website.
+**Welcome to my website.**
 
-My CV can be found [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link) and the research papers I've written are listed below:
+I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry.
+
+**My CV can be found [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link) and the research papers I've written are listed below:**
 
 * [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F) \[[In Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)\]  
     Formalizes a construction that builds a spherical t\-design by placing a spherical t\-design on each projective or Hopf fiber associated to the points of a ⌊t/2⌋-design on a quotient projective space or sphere Σ. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414), who verified the cases when Σ is a complex projective space or S2.
@@ -28,13 +36,13 @@ My CV can be found [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4
 * Lifting design curves \[Writeup in progress, to be released 3/3/2026\].
         
 
-Some expository works I've written can also be found below:
+**Some expository works I've written can also be found below:**
 
 * Instanton Floer homology and applications \[[To appear](https://link.springer.com/book/9783032134936)\].  
     Notes following a [mini-course](https://erdoscenter.renyi.hu/events/conference-new-structures-low-dimensional-topology) given by [Tom Mrowka](https://math.mit.edu/~mrowka/) and [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home) written joint w/ [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/), and [Nathan Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html). In specific, I wrote the sections following Tom's lectures joint w/ Tom and Joye and made figures for both the sections following Tom's lectures and those following John's lectures.
         
 
-The following are talks I've given:
+**The following are talks I've given:**
 
 * [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8) \[3/14/2025 @ [MIT PuMaGraSS](https://math.mit.edu/pumagrass/)\]  
     I discussed geometric constructions of [spherical t\-designs](https://drive.google.com/file/d/1x8kh1ir3qsDPOWAqWsjstV5C3obETxlV/view?usp=sharing) and [t\-design curves](https://drive.google.com/file/d/1HlHE2oS-M53LNbNKoZkpfpfi2fw-S6Yq/view?usp=sharing).
@@ -49,13 +57,13 @@ The following are talks I've given:
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my preprint of the same name.
     
 
-The following are meetings I've organized:
+**The following are meetings I've organized:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home) \[4/2-4/4/2025 @ MIT and Harvard\]  
     A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](https://drive.google.com/file/d/1eQs8u07aWJ1T0SiU6org20qM1ncSOUr5/view?usp=drivesdk).
     
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
   
   <div style="flex: 1; text-align: center;">
     <figure>
@@ -81,16 +89,7 @@ The following are meetings I've organized:
 
 </div>
 
-<div style="text-align: center;">
-<figure>
-<img src="/resources/imgs/portrait.jpg">
-<caption markdown=1>
-If you see someone who looks like this around the MIT math department, they're probably me.
-</caption>
-</figure>
-</div>
-
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px; margin-top: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
   
   <div style="flex: 1; text-align: center;">
     <figure>
@@ -115,49 +114,3 @@ If you see someone who looks like this around the MIT math department, they're p
   </div>
 
 </div>
-
-You may recognize me from any of the following I recently attended:
-
-*   [2025 Simons Collaboration on New Structures in Low-Dimensional Topology Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-new-structures-in-low-dimensional-topology-annual-meeting-2025/) in New York City \[3/27\-3/28/2025\]
-        
-*   [Foliations and Diffeomorphism Groups](https://conferences.cirm-math.fr/3082.html) at CIRM \[12/9-12/13/2024\]
-    
-*   [What’s your trick? A Non-Traditional Conference in Low-Dimensional Topology](https://www.birs.ca/events/2024/5-day-workshops/24w5291) (virtual participant) \[8/4-8/9/2024\]
-    
-*   [Summer school](https://erdoscenter.renyi.hu/events/summer-school-new-structures-low-dimensional-topology) and [conference - New structures in low-dimensional topology](https://erdoscenter.renyi.hu/events/conference-new-structures-low-dimensional-topology) at the Rényi Institute \[7/1-7/12/2024\]
-    
-*   [41st Workshop in Geometric Topology](https://sites.google.com/view/workshop2024/home) at Calvin University \[6/13-6/15/2024\]
-    
-*   [2024 Georgia Topology Summer School and Conference](https://topology.franklinresearch.uga.edu/2024GTSC) at the University of Georgia \[5/15-5/24/2024\]
-    
-*   [Graduate Student Topology and Geometry Conference 2024](https://sites.google.com/view/gstgc2024msu/home) at Michigan State University \[4/12-4/14/2024\]
-    
-*   [2024 AMS Spring Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2312_program.html) at Howard University \[4/6-4/7/2024\]
-    
-*   [2024 Simons Collaboration on New Structures in Low-Dimensional Topology Annual Meeting](https://www.simonsfoundation.org/event/simons-collaboration-on-new-structures-in-low-dimensional-topology-annual-meeting-2024/) in New York City \[3/28-3/29/2024\]
-    
-*   [Simons Satellite Conference](https://web.math.princeton.edu/~petero/Simons/Simons.html) at Princeton University \[3/25-3/27/2024\]
-    
-*   [Hot Topics: Artin Groups and Arrangements - Topology, Geometry, and Combinatorics](https://www.slmath.org/workshops/1047) at SLMath \[3/11-3/15/2024\]
-    
-*   [Equivariant Methods in Geometry](https://www.newton.ac.uk/event/emgw01/) at Cambridge University \[1/8-1/12/2024\]
-    
-*   [Early Career Symposium for Topology, Actions, and Symmetry](https://sites.google.com/view/soton-ecstasy-2023/home?authuser=0) at the University of Southampton \[8/10-8/11/2023\]
-    
-*   [Gauge Theory and Topology: in Celebration of Peter Kronheimer’s 60th Birthday](https://www.claymath.org/events/gauge-theory-and-topology-in-celebration-of-peter-kronheimerss-60th-birthday/) at Oxford University \[7/24-7/28/2023\]
-    
-*   [RTG Summer School in Geometry and Topology](https://sites.google.com/view/princetonrtg2023/) at Princeton University \[7/3-7/21/2023\]
-    
-*   [Workshop in Geometric Topology](https://sites.coloradocollege.edu/geometrictopology2023/) at Colorado College \[6/15-6/17/2023\]
-    
-*   [New Developments in 3- and 4-Manifold Topology](https://math.virginia.edu/geomtop/workshop-spring-2023/) at the University of Virginia \[6/5-6/7/2023\]
-    
-*   [FRG Workshop on Discrete and Computational Geometry, Shape Analysis, and Applications](https://sites.google.com/view/yanwenluo/workshop) at Rutgers University \[5/19 - 5/21/2023\]
-    
-*   [Summer Program in Undergraduate Research](https://math.mit.edu/research/undergraduate/spur/) at MIT \[6/5-8/4/2022\]
-    
-*   The [Undergraduate Research Opportunities Program](https://urop.mit.edu/) at MIT \[2020-2023\]
-    
-*   My undergraduate years at [MIT](https://photos.app.goo.gl/9ZPPELYmQo5MRFUf9), where I lived on Black Hole in [Random Hall](http://web.mit.edu/random-hall/www/) \[2019-2023\]
-    
-*   My time growing up in [Baltimore](https://photos.app.goo.gl/wfm7Cs3JAN2HypJCA), [The Greatest City in America](https://photos.app.goo.gl/QESz2NEp5UsnjvdK7).
