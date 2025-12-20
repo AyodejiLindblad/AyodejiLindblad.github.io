@@ -4,7 +4,7 @@ body {
     margin: 0 auto; /* Optional: centers the layout on desktop */
 
     font-family: 'Computer Modern Serif', serif;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 /* Style for phones (screens smaller than 768px) */
@@ -19,15 +19,15 @@ figure img, img.figure, img.small_figure {
     width: auto;
     height: auto;
     display: block;
-    margin: 3em auto;
+    margin: 1em auto;
     max-width: 90%;
     max-height: 250px;
 }
 
 figcaption {
     margin: auto;
-    margin-top: -2em;
-    margin-bottom: 2em;
+    margin-top: -1em;
+    margin-bottom: 1em;
     width: 95%;
     text-align: center;
 }
