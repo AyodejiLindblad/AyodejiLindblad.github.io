@@ -40,27 +40,27 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 * [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
 
-* [E. Col\'on](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
+* [E. Colón](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
         
 
 **Talks:**
 
-* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). 3/14/2025 @ [MIT PuMaGraSS](https://math.mit.edu/pumagrass/).
+* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025.
     I discussed geometric constructions of [spherical t\-designs](https://drive.google.com/file/d/1x8kh1ir3qsDPOWAqWsjstV5C3obETxlV/view?usp=sharing) and [t\-design curves](https://drive.google.com/file/d/1HlHE2oS-M53LNbNKoZkpfpfi2fw-S6Yq/view?usp=sharing).
     
-* Monopole Floer homology and a refinement of Manolescu. 10/15/2024 @ [MIT Juvitop](https://math.mit.edu/juvitop/).  
+* Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 10/15/2024.  
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://arxiv.org/abs/math/0104024) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
     
-* In case you're curious what your local low-dimensional topologists do all day. 10/4/2024 @ [MIT PuMaGraSS](https://math.mit.edu/pumagrass/).  
+* In case you're curious what your local low-dimensional topologists do all day. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 10/4/2024.  
     I spoke about Morse theory and Floer theories.
     
-* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). 4/6/2024 @ 2024 AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section.  
+* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 4/6/2024.  
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my preprint of the same name.
     
 
 **Meetings organized:**
 
-* [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). 4/2-4/4/2025 @ MIT and Harvard.  
+* [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 4/2-4/4/2025.  
     A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](https://drive.google.com/file/d/1eQs8u07aWJ1T0SiU6org20qM1ncSOUr5/view?usp=drivesdk).
     
 
