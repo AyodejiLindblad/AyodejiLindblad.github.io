@@ -11,7 +11,7 @@ layout: default
 </figure>
 </div>
 
-# <p style="text-align: center;">Ayodeji Lindblad</p>
+<h1 style="text-align: center; margin-top: 0;">Ayodeji Lindblad</h1>
 
 **Welcome to my website.**
 
