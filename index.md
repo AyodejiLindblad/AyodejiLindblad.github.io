@@ -209,7 +209,7 @@ Coming soon!
 
 ---
 
-This site has had <span id="site-total-number">—</span> total views.
+This page has had <span id="site-total-number">—</span> total views since its creation at the end of 2025.
 
 <script>
   fetch('https://ayodejilindblad.goatcounter.com/counter/TOTAL.json')
