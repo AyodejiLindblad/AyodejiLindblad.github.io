@@ -39,7 +39,6 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Expository works:**
 
 * [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
-    In specific, I wrote the sections following Tom's lectures joint w/ Tom and Joye and made figures for both the sections following Tom's lectures and those following John's lectures.
 
 * [E. Col\'on](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
         

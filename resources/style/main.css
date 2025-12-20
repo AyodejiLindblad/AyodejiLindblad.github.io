@@ -19,7 +19,7 @@ figure img, img.figure, img.small_figure {
     width: auto;
     height: auto;
     display: block;
-    margin: 1em auto;
+    margin: 2em auto;
     max-width: 90%;
     max-height: 250px;
 }
