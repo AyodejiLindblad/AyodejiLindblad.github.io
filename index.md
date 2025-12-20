@@ -19,21 +19,21 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 **Research papers:**
 
-* [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F) \[[In Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)\]  
+* A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). \[*[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*\], 2025.  
     Formalizes a construction that builds a spherical t\-design by placing a spherical t\-design on each projective or Hopf fiber associated to the points of a ⌊t/2⌋-design on a quotient projective space or sphere Σ. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414), who verified the cases when Σ is a complex projective space or S2.
     
-* [Asymptotically optimal t\-design curves on S3](https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk) \[[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication\]  
+* A. Lindblad. [Asymptotically optimal t\-design curves on S3](https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk). \[*[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*\], 2025.  
     Solves the dimension 3 case of the problem posed by [Ehler and Gröchenig](https://www.researchgate.net/publication/375872452_t_-Design_Curves_and_Mobile_Sampling_on_the_Sphere) of proving that there exist asymptotically optimal sequences of t\-design curves on Sd for d > 2.
     
-* [Asymptotically short generalizations of t\-design curves](https://drive.google.com/file/d/1AzJJJvKVxr380cAapRny8Pr8qEjeXrdZ/view?usp=drivesdk) \[[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication\]  
+* A. Lindblad. [Asymptotically short generalizations of t\-design curves](https://drive.google.com/file/d/1AzJJJvKVxr380cAapRny8Pr8qEjeXrdZ/view?usp=drivesdk). \[*[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*\], 2025.  
     Proves existence of weighted and εt\-approximate t\-design curves on Sd of asymptotic order of arc length td-1 for all d in the weighted setting (in which case such curves are asymptotically optimal) and for all odd d in the approximate setting (in which case εt ≍ 1/t as t → ∞). Explicit formulas for such weighted t\-design curves are given for d ∈ {2, 3}. 
     
-* [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf) \[[Available on SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)\]  
-    Joint w/ [Carlos Alvarado](https://alvarado-alvarez.github.io/), produced under the supervision of [Tang-Kai Lee](https://math.mit.edu/directory/profile.html?pid=2273) as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/) 2022. Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. 
+* [C. Alvarado](https://alvarado-alvarez.github.io/), A. Lindblad. [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). \[*[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*\], 2022.  
+    Produced as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/) under the supervision of [Tang-Kai Lee](https://math.mit.edu/directory/profile.html?pid=2273). Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. 
     
-* Abelianized boundary Dehn twists on connected sums of complete intersections \[Writeup in progress, to be released 1/13/2026\].
+* A. Lindblad. Abelianized boundary Dehn twists on connected sums of complete intersections. *In preparation*, 2026.
     
-* Lifting design curves \[Writeup in progress, to be released 3/3/2026\].
+* A. Lindblad. Lifting design curves. *In preparation*, 2026.
         
 
 **Expository works:**
