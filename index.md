@@ -13,7 +13,13 @@ layout: default
 
 <h1 style="text-align: center; margin-top: 0;">Ayodeji Lindblad</h1>
 
-<p align="center">[Research](#research) | [Expository](#expository) | [Talks](#talks) | [Organization](#organization) | [Figures](#figures)</p>
+<p align="center">
+  <a href="#research">Research</a> |
+  <a href="#expository">Expository</a> |
+  <a href="#talks">Talks</a> |
+  <a href="#organization">Organization</a> |
+  <a href="#figures">Figures</a>
+</p>
 
 **Welcome to my website.**
 
