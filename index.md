@@ -209,4 +209,13 @@ Coming soon!
 
 ---
 
+This page has had <span id="site-total-number">—</span>
+<script>
+  fetch('https://YOURCODE.goatcounter.com/counter/TOTAL.json')
+    .then(r => r.json())
+    .then(d => { document.getElementById('site-total-number').textContent = d.count; })
+    .catch(() => {});
+</script> views since its creation in late 2025.
+
+
 <br>

@@ -27,7 +27,7 @@ figure img, img.figure, img.small_figure {
 figcaption {
     margin: auto;
     margin-top: -1.5em;
-    margin-bottom: 2em;
+    margin-bottom: 0em;
     width: 95%;
     text-align: center;
 }
@@ -43,8 +43,7 @@ hr {
 /* make solid line 600px long at most */
 hr.divider-600 {
   width: 600px;
-  max-width: calc(100% - 2rem); /* keeps a little gap on small screens */
-  margin: 2.5rem auto;
+  margin: 2.5rem auto;      /* vertical space + center */
   border: 0;
-  border-top: 1px solid currentColor;
+  border-top: 1px solid currentColor;  /* matches your text color */
 }
