@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ayodeji Lindblad
 layout: default
 ---
 
