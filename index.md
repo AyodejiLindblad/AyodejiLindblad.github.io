@@ -21,7 +21,7 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
-<div style="height: 0.5rem;"></div>
+<br>
 
 ---
 
