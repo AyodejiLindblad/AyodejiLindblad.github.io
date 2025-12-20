@@ -23,7 +23,6 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
-<span style="display:block; height:0.05em;"></span>
 
 ---
 
@@ -95,7 +94,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <a id="figures"></a>
 
   
-<div style="flex: 1; text-align: center; --img-width: 420px;">
+<div style="flex: 1; text-align: center; --img-width: 500px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/polyex.jpg"
@@ -119,7 +118,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center; --img-width: 420px;">
+<div style="flex: 1; text-align: center; --img-width: 400px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/fano.png"
@@ -143,7 +142,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center; --img-width: 420px;">
+<div style="flex: 1; text-align: center; --img-width: 400px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/S3ex.png"
@@ -167,7 +166,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center; --img-width: 420px;">
+<div style="flex: 1; text-align: center; --img-width: 500px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/torusex.png"
