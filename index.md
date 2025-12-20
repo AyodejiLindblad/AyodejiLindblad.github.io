@@ -127,6 +127,8 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
+---
+
 <div style="flex: 1; text-align: center; --img-width: 450px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
@@ -151,6 +153,8 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
+---
+
 <div style="flex: 1; text-align: center; --img-width: 350px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
@@ -174,6 +178,8 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     </figcaption>
   </figure>
 </div>
+
+---
 
 <div style="flex: 1; text-align: center; --img-width: 550px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
