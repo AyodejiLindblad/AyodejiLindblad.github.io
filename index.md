@@ -21,6 +21,8 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
+<span style="display:block; height:0.25em;"></span>
+
 ---
 
 **Welcome to my website.**
@@ -90,7 +92,6 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 ---
 <a id="figures"></a>
 
-**Figures:**
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
   
@@ -145,5 +146,4 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 </div>
 
 
----
 <br>
