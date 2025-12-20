@@ -96,17 +96,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
   
 <div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0;">
+  <figure style="display: inline-block; margin: 0; --img-maxh: 320px;">
     <img
       src="/resources/imgs/polyex.jpg"
-      style="width: var(--img-width, 400px); max-width: 100%; height: auto;"
+      style="
+        max-height: var(--img-maxh, 320px);
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+      "
     >
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
         font-size: 0.9em;
         margin-top: 10px;
-        max-width: var(--img-width, 400px);
         width: 100%;
         box-sizing: border-box;
         overflow-wrap: anywhere;
@@ -121,17 +127,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 </div>
 
 <div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0;">
+  <figure style="display: inline-block; margin: 0; --img-maxh: 280px;">
     <img
       src="/resources/imgs/fano.png"
-      style="width: var(--img-width, 400px); max-width: 100%; height: auto;"
+      style="
+        max-height: var(--img-maxh, 280px);
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+      "
     >
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
         font-size: 0.9em;
         margin-top: 10px;
-        max-width: var(--img-width, 400px);
         width: 100%;
         box-sizing: border-box;
         overflow-wrap: anywhere;
@@ -146,17 +158,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 </div>
 
 <div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0;">
+  <figure style="display: inline-block; margin: 0; --img-maxh: 320px;">
     <img
       src="/resources/imgs/S3ex.png"
-      style="width: var(--img-width, 400px); max-width: 100%; height: auto;"
+      style="
+        max-height: var(--img-maxh, 320px);
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+      "
     >
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
         font-size: 0.9em;
         margin-top: 10px;
-        max-width: var(--img-width, 400px);
         width: 100%;
         box-sizing: border-box;
         overflow-wrap: anywhere;
@@ -171,17 +189,23 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 </div>
 
 <div style="flex: 1; text-align: center;">
-  <figure style="display: inline-block; margin: 0;">
+  <figure style="display: inline-block; margin: 0; --img-maxh: 280px;">
     <img
       src="/resources/imgs/torusex.png"
-      style="width: var(--img-width, 400px); max-width: 100%; height: auto;"
+      style="
+        max-height: var(--img-maxh, 280px);
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+      "
     >
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
         font-size: 0.9em;
         margin-top: 10px;
-        max-width: var(--img-width, 400px);
         width: 100%;
         box-sizing: border-box;
         overflow-wrap: anywhere;
