@@ -21,6 +21,8 @@ layout: default
   <a href="#figures">Figures</a>
 </p>
 
+<div style="height: 0.5rem;"></div>
+
 ---
 
 **Welcome to my website.**
@@ -30,6 +32,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 ---
 
 <a id="research"></a>
+
 **Research:**
 
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
@@ -51,6 +54,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 ---
 
 <a id="expository"></a>
+
 **Expository:**
 
 * [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
@@ -60,6 +64,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 ---
 
 <a id="talks"></a>
+
 **Talks:**
 
 * [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025. 
@@ -77,6 +82,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 ---
 
 <a id="organization"></a>
+
 **Organization:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 4/2-4/4/2025.  
@@ -85,6 +91,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 ---
 
 <a id="figures"></a>
+
 **Figures:**
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
@@ -138,3 +145,5 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </div>
 
 </div>
+
+<br>
