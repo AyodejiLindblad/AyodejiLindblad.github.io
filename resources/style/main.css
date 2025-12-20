@@ -42,8 +42,8 @@ hr {
 
 /* make solid line 600px long at most */
 hr.hr-600 {
-  width: 600px;
-  max-width: 100%;
-  margin: 2rem auto;
+  width: 600px !important;
+  margin: 2rem auto !important;   /* centers it */
+  max-width: 100%;                /* don’t overflow on small screens */
 }
 
