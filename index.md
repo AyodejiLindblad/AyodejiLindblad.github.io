@@ -20,15 +20,19 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Research papers:**
 
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
+    
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere $\Sigma$. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)), which verified the cases when $\Sigma$ is a complex projective space or $S^2$.
     
 * A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
+    
     Solves the dimension 3 case of the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on $S^d$ for $d > 2$.
     
 * A. Lindblad. [Asymptotically short generalizations of t\-design curves](https://drive.google.com/file/d/1AzJJJvKVxr380cAapRny8Pr8qEjeXrdZ/view?usp=drivesdk). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
+    
     Proves existence of natural analogues of $t$-design curves we call *approximate* and *weighted $t$-design curves* satisfying certain desirable properties which achieve the optimal asymptoitic order of length of spherical $t$-design curves on all odd-dimensional spheres in the approximate setting and on all spheres in the weighted setting. Explicit formulas for such weighted $t$\-design curves for all $t$ on $S^2$ and $S^3$ are given.
         
 * [C. Alvarado](https://alvarado-alvarez.github.io/), A. Lindblad. [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
+    
     Produced as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/) under the supervision of [Tang-Kai Lee](https://math.mit.edu/directory/profile.html?pid=2273). Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. 
     
 * A. Lindblad. Abelianized boundary Dehn twists on connected sums of complete intersections. *In preparation*, 2026.
@@ -46,21 +50,26 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Talks:**
 
 * [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025.
+    
     I discussed geometric constructions of [spherical t\-designs](https://drive.google.com/file/d/1x8kh1ir3qsDPOWAqWsjstV5C3obETxlV/view?usp=sharing) and [t\-design curves](https://drive.google.com/file/d/1HlHE2oS-M53LNbNKoZkpfpfi2fw-S6Yq/view?usp=sharing).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 10/15/2024.  
+    
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://arxiv.org/abs/math/0104024) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
     
 * In case you're curious what your local low-dimensional topologists do all day. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 10/4/2024.  
-    I spoke about Morse theory and Floer theories.
+    
+    I provided an introduction to Morse theory and Floer theories.
     
 * [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 4/6/2024.  
-    [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my preprint of the same name.
+    
+    [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my paper of the same name.
     
 
 **Meetings organized:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 4/2-4/4/2025.  
+    
     A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](https://drive.google.com/file/d/1eQs8u07aWJ1T0SiU6org20qM1ncSOUr5/view?usp=drivesdk).
     
 
