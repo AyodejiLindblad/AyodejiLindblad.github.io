@@ -126,7 +126,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<hr class="divider-600">
+<hr class="hr-600">
 
 <div style="flex: 1; text-align: center; --img-width: 450px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
@@ -151,7 +151,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<hr class="divider-600">
+<hr class="hr-600">
 
 <div style="flex: 1; text-align: center; --img-width: 350px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
@@ -176,7 +176,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<hr class="divider-600">
+<hr class="hr-600">
 
 <div style="flex: 1; text-align: center; --img-width: 550px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
@@ -211,7 +211,7 @@ Coming soon!
 
 This page has had <span id="site-total-number">—</span>
 <script>
-  fetch('https://YOURCODE.goatcounter.com/counter/TOTAL.json')
+  fetch('https://ayodejilindblad.goatcounter.com/counter/TOTAL.json')
     .then(r => r.json())
     .then(d => { document.getElementById('site-total-number').textContent = d.count; })
     .catch(() => {});
