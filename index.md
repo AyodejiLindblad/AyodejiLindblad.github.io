@@ -95,11 +95,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <a id="figures"></a>
 
   
-<div style="flex: 1; text-align: center; --img-width: 500px;">
+<div style="flex: 1; text-align: center; --img-width: 420px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/polyex.jpg"
-      style="width: 100%; height: auto; display: block; margin: 0 auto;"
+      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -119,11 +119,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center; --img-width: 500px;">
+<div style="flex: 1; text-align: center; --img-width: 420px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/fano.png"
-      style="width: 100%; height: auto; display: block; margin: 0 auto;"
+      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -143,11 +143,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center; --img-width: 500px;">
+<div style="flex: 1; text-align: center; --img-width: 420px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/S3ex.png"
-      style="width: 100%; height: auto; display: block; margin: 0 auto;"
+      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
       style="
@@ -167,11 +167,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   </figure>
 </div>
 
-<div style="flex: 1; text-align: center; --img-width: 500px;">
+<div style="flex: 1; text-align: center; --img-width: 420px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/torusex.png"
-      style="width: 100%; height: auto; display: block; margin: 0 auto;"
+      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
       style="

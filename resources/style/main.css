@@ -26,8 +26,8 @@ figure img, img.figure, img.small_figure {
 
 figcaption {
     margin: auto;
-    margin-top: -1em;
-    margin-bottom: 1em;
+    margin-top: -1.5em;
+    margin-bottom: 1.5em;
     width: 95%;
     text-align: center;
 }
