@@ -26,29 +26,6 @@ color: default
   </head>
 
   
-  <script>
-    //  Add “air” above whatever element is being jumped to via #hash
-(() => {
-  // Adjust this: 1.0 = about one line of “air”, 1.25 = a bit more
-  const OFFSET_REM = 1.25;
-  function offsetPx() {
-    const fs = parseFloat(getComputedStyle(document.documentElement).fontSize) || 16;
-    return OFFSET_REM * fs;
-  }
-  function applyOffset() {
-    if (!location.hash) return;
-    // Let the browser perform the normal hash jump first, then nudge upward.
-    requestAnimationFrame(() => {
-      requestAnimationFrame(() => {
-        const y = Math.max(window.scrollY - offsetPx(), 0);
-        window.scrollTo({ top: y, left: 0, behavior: "auto" });
-      });
-    });
-  }
-  window.addEventListener("hashchange", applyOffset);
-  window.addEventListener("load", applyOffset);
-})();
-</script>
 
   <body>
 
