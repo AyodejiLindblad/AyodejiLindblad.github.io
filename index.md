@@ -148,7 +148,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     >
       <a href="https://rdcu.be/eSi5F"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
-        The Fano plane, which visualizes how to multiply octonions.
+        The Fano plane, which visualizes how to multiply octonions
       </a>
     </figcaption>
   </figure>
