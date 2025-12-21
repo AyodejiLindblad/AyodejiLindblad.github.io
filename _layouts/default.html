@@ -38,32 +38,53 @@ color: default
     if (!toc || !inner) return;
 
     // Reset first
-    inner.style.transform = "";
+    inner.style.fontSize = "1em";
 
     // Only shrink on small screens
     if (!mq.matches) return;
 
-    // Sub-pixel measurements + small safety margin to prevent clipping
-    const target = toc.getBoundingClientRect().width - 2;  // 2px buffer
-    const natural = inner.getBoundingClientRect().width;
+    // Available width (give a small safety buffer)
+    const target = toc.getBoundingClientRect().width - 6;
+    if (target <= 0) return;
 
-    if (natural > 0) {
-      const scale = Math.min(1, target / natural);
-      inner.style.transform = `scale(${scale})`;
+    // If it already fits, stop
+    const natural = inner.scrollWidth;
+    if (natural <= target) return;
+
+    // Compute a first-pass scale
+    let scale = target / natural;
+
+    // Extra safety to avoid 1px rounding issues
+    scale *= 0.98;
+
+    // Clamp so it never grows
+    scale = Math.min(1, Math.max(0.5, scale));
+
+    inner.style.fontSize = (scale * 100).toFixed(2) + "%";
+
+    // One more correction pass in case rounding still causes overflow
+    // (at most a few tiny steps)
+    for (let i = 0; i < 5 && inner.scrollWidth > target; i++) {
+      const current = parseFloat(inner.style.fontSize);
+      inner.style.fontSize = (current - 1) + "%";
     }
   }
 
-  // Run in a way that also catches late-loading webfonts
-  window.addEventListener("load", () => requestAnimationFrame(fitTOC));
-  window.addEventListener("resize", fitTOC);
-  if (mq.addEventListener) mq.addEventListener("change", fitTOC);
-  else mq.addListener(fitTOC); // older Safari
+  function scheduleFit() {
+    requestAnimationFrame(() => requestAnimationFrame(fitTOC));
+  }
+
+  window.addEventListener("load", scheduleFit);
+  window.addEventListener("resize", scheduleFit);
+  if (mq.addEventListener) mq.addEventListener("change", scheduleFit);
+  else mq.addListener(scheduleFit);
 
   if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(fitTOC);
+    document.fonts.ready.then(scheduleFit);
   }
 })();
 </script>
+
 
 
 

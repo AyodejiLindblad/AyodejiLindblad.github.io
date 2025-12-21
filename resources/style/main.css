@@ -58,21 +58,22 @@ html, body {
 /* TOC matches body text size on large screens */
 .toc {
   text-align: center;
-  font-size: 1em;            /* same as body */
+  font-size: 1em;     /* same as body on large screens */
   margin: 0;
-  overflow: hidden;          /* prevents any horizontal scroll due to scaling */
+  /* IMPORTANT: do NOT hide overflow; that's what clips the last letter */
+  overflow: visible;
 }
 
-/* This is the thing we will shrink on small screens */
 .toc-inner {
   display: inline-block;
   white-space: nowrap;
-  transform-origin: center top;
+  font-size: 1em;     /* will be shrunk by JS on small screens only */
 }
 
 /* Only underline links, never the separators */
 .toc a { text-decoration: underline; }
 .toc .toc-sep { text-decoration: none !important; }
+
 
 
 
