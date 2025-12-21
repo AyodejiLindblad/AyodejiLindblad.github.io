@@ -28,39 +28,38 @@ color: default
   
 
 <script>
-//Shrinks contents as desired on small screens
 (function () {
+  const mq = window.matchMedia("(max-width: 520px)");
+
   function fitTOC() {
-    const el = document.querySelector('.toc');
-    if (!el) return;
-    // Reset to "normal" size first so we don't keep shrinking forever.
-    el.style.fontSize = '';
-    const basePx = parseFloat(getComputedStyle(el).fontSize);
-    const minPx  = basePx * 0.55; // don't shrink past this (tweak if you want)
-    // If it already fits, we're done.
-    if (el.scrollWidth <= el.clientWidth) return;
-    // Binary search for the largest font-size that still fits.
-    let lo = minPx, hi = basePx;
-    for (let i = 0; i < 14; i++) {
-      const mid = (lo + hi) / 2;
-      el.style.fontSize = mid + 'px';
-      if (el.scrollWidth <= el.clientWidth) lo = mid;
-      else hi = mid;
+    const toc = document.querySelector(".toc");
+    if (!toc) return;
+
+    const inner = toc.querySelector(".toc-inner");
+    if (!inner) return;
+
+    // reset first
+    inner.style.transform = "";
+
+    // only shrink on small screens
+    if (!mq.matches) return;
+
+    const target = toc.clientWidth;      // exactly the same usable width as the rest of the text
+    const natural = inner.scrollWidth;   // how wide the TOC wants to be
+
+    if (natural > 0) {
+      const scale = Math.min(1, target / natural);
+      inner.style.transform = `scale(${scale})`;
     }
-    el.style.fontSize = lo + 'px';
   }
-  // Run after fonts/layout are ready
-  const run = () => requestAnimationFrame(fitTOC);
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(run);
-  else window.addEventListener('load', run);
-  // Re-fit on resize
-  window.addEventListener('resize', run);
-  // Also re-fit if the TOC width changes for other reasons
-  const ro = new ResizeObserver(run);
-  const toc = document.querySelector('.toc');
-  if (toc) ro.observe(toc);
+
+  window.addEventListener("load", fitTOC);
+  window.addEventListener("resize", fitTOC);
+  if (mq.addEventListener) mq.addEventListener("change", fitTOC);
+  else mq.addListener(fitTOC); // older Safari
 })();
 </script>
+
 
 
 

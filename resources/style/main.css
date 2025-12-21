@@ -53,34 +53,28 @@ html, body {
   text-size-adjust: 100%;
 }
 
-/* Default (non-small screens): keep your old look */
+
+
+/* TOC matches body text size on large screens */
 .toc {
   text-align: center;
-  text-decoration: none;   /* crucial: prevents the separators being underlined */
+  font-size: 1em;            /* same as body */
+  margin: 0;
+  overflow: hidden;          /* prevents any horizontal scroll due to scaling */
 }
-/* Only underline links (not the separators) */
-.toc a {
-  text-decoration: underline;
+
+/* This is the thing we will shrink on small screens */
+.toc-inner {
+  display: inline-block;
+  white-space: nowrap;
+  transform-origin: center top;
 }
-/* separators should never be underlined */
-.toc .toc-sep {
-  text-decoration: none !important;
-}
-/* OPTIONAL: keep TOC links from turning purple after you click them */
-.toc a:link,
-.toc a:visited {
-  color: #0000EE;
-}
-/* Small screens only: shrink to fit, with side gap */
-@media (max-width: 520px) {
-  .toc {
-    width: 100%;
-    padding: 0;              /* body already provides the side padding */
-    box-sizing: border-box;
-    white-space: nowrap;     /* must stay on one line */
-    line-height: 1.2;
-  }
-}
+
+/* Only underline links, never the separators */
+.toc a { text-decoration: underline; }
+.toc .toc-sep { text-decoration: none !important; }
+
+
 
 /* Make hash-jumps land with a little “air” above the heading text */
 .toc-jump {
