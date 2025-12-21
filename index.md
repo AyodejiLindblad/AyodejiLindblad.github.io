@@ -52,7 +52,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         
 * [C. Alvarado](https://alvarado-alvarez.github.io/), A. Lindblad. [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
     <span style="display:block; height:0.25em;"></span>
-    Produced as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/) under the supervision of [Tang-Kai Lee](https://math.mit.edu/directory/profile.html?pid=2273). Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. 
+    Produced as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/) under the supervision of [Tang-Kai Lee](https://www.math.columbia.edu/~leetk/). Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. 
     
 * A. Lindblad. Abelianized boundary Dehn twists on connected sums of complete intersections. *In preparation*, 2026.
     
@@ -74,19 +74,19 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div id="talks" class="toc-jump"></div>
 **Talks:**
 
-* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025. 
+* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025. 
     <span style="display:block; height:0.25em;"></span>
     I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](resources/pdfs/Asymptotically%20optimal%20$t$-design%20curves%20on%20$S^3$.pdf).
     
-* Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 10/15/2024.  
+* Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 2024.  
     <span style="display:block; height:0.25em;"></span>
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://arxiv.org/abs/math/0104024) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
     
-* In case you're curious what your local low-dimensional topologists do all day. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 10/4/2024.  
+* In case you're curious what your local low-dimensional topologists do all day. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2024.  
     <span style="display:block; height:0.25em;"></span>
     I provided an introduction to Morse theory and Floer theories.
     
-* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 4/6/2024.  
+* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
     <span style="display:block; height:0.25em;"></span>
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed [my paper](https://rdcu.be/eSi5F) of the same name.
     
@@ -96,7 +96,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div id="organization" class="toc-jump"></div>
 **Organization:**
 
-* [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 4/2-4/4/2025.  
+* [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
     <span style="display:block; height:0.25em;"></span>
     A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](resources/pdfs/Low%20PriCE%20Schedule%20and%20Abstracts.pdf).
 
