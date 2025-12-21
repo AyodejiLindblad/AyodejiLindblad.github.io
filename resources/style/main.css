@@ -74,7 +74,7 @@ html, body {
 /* Small screens only: shrink to fit, with side gap */
 @media (max-width: 520px) {
   .toc {
-    max-width: calc(100vw - 2rem); /* ~1rem gap each side */
+    max-width: calc(100vw - 1rem); /* ~1rem gap each side */
     margin-left: auto;
     margin-right: auto;
     padding: 0 1rem;
