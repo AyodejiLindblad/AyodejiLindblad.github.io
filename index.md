@@ -36,12 +36,10 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div id="research" class="toc-jump"></div>
 **Research:**
 
-<div id="designs" class="toc-jump"></div>
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
     <span style="display:block; height:0.25em;"></span>
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere $\Sigma$. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)) which verified the cases when $\Sigma$ is a complex projective space or $S^2$.
   
-<div id="S3Paper" class="toc-jump"></div>
 * A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
     <span style="display:block; height:0.25em;"></span>
     Solves the dimension 3 case of the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on $S^d$ for $d > 2$.
@@ -121,7 +119,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="#designs"
+      <a href="https://rdcu.be/eSi5F"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         Values of a polynomial $f$ on Hopf fibers and the polynomial on the 2-sphere whose value at a point is the average of $f$ on the Hopf fiber associated to that point
       </a>
@@ -146,7 +144,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="#designs"
+      <a href="https://rdcu.be/eSi5F"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         The Fano plane, which visualizes how to multiply octonions.
       </a>
@@ -171,7 +169,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="#S3Paper"
+      <a href="https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A 3-design curve—a curve whose associated line integral averages all degree at most 3 polynomials—on the 3-sphere
       </a>
@@ -196,7 +194,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="#S3Paper"
+      <a href="https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         3-design curves—curves whose associated line integrals average all degree at most 3 polynomials—on tori
       </a>
