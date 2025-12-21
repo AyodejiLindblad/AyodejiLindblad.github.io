@@ -94,7 +94,7 @@ a:visited {
 /* Turn purple on hover (and keyboard focus, which is nice) */
 a:hover,
 a:focus {
-  color: rgb(134, 0, 187);
+  color: rgb(170,13,255);
 }
 /* Optional: keep underline behavior consistent */
 a { text-decoration: underline; }
