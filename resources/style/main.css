@@ -88,8 +88,8 @@ html, body {
 /* Make hash-jumps land with a little “air” above the heading text */
 .toc-jump {
   display: block;
-  height: 0;
-  padding-top: 1.5rem; /* space above */
+  height: 0;              /* no space in layout */
+  scroll-margin-top: 1.25rem;  /* offset ONLY when jumped-to */
   visibility: hidden;
   pointer-events: none;
 }
