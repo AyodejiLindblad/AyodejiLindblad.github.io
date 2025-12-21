@@ -48,7 +48,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     
 * A. Lindblad. [Asymptotically short generalizations of t\-design curves](resources/pdfs/Asymptotically%20short%20generalizations%20of%20t-design%20curves.pdf). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
     <span style="display:block; height:0.25em;"></span>
-    Proves existence of natural analogues of $t$-design curves we call *approximate* and *weighted $t$-design curves* satisfying certain desirable properties which achieve the optimal asymptoitic order of length of spherical $t$-design curves on all odd-dimensional spheres in the approximate setting and on all spheres in the weighted setting. Explicit formulas for such weighted $t$\-design curves for all $t$ on $S^2$ and $S^3$ are given.
+    Proves existence of natural analogues of $t$-design curves we call *approximate* and *weighted $t$-design curves* satisfying certain desirable properties which achieve the optimal asymptoitic order of length of spherical $t$-design curves on all odd-dimensional spheres in the approximate setting and on all spheres in the weighted setting. Explicit formulas for such weighted $t$\-design curves for all $t$ on the 2-sphere and -sphere are given.
         
 * [C. Alvarado](https://alvarado-alvarez.github.io/), A. Lindblad. [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
     <span style="display:block; height:0.25em;"></span>
