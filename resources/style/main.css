@@ -86,14 +86,13 @@ html, body {
 }
 
 /* Add “air” above whatever element is being jumped to via #hash */
-h1:target::before,
-h2:target::before,
-h3:target::before {
-  content: "";
+.anchor {
   display: block;
-  height: 1.25rem;      /* amount of blank space */
-  margin-top: -1.25rem; /* must match height */
+  height: 1.25rem;       /* the blank space you want above the header */
+  margin-top: -1.25rem;  /* must match height */
+  visibility: hidden;
 }
+
 
 
 
