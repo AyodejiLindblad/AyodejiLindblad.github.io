@@ -74,10 +74,10 @@ html, body {
 /* Small screens only: shrink to fit, with side gap */
 @media (max-width: 520px) {
   .toc {
-    max-width: calc(100vw - 0rem); /* ~1rem gap each side */
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 0rem;
+    width: 100%;
+  max-width: none;
+  padding: 0;
+  box-sizing: border-box;
 
     white-space: nowrap;          /* stay on one line */
     font-size: clamp(0.62em, 3.6vw, 1em);  /* shrink only on small screens */
@@ -90,8 +90,8 @@ html, body {
   display: block;
   height: 0;
   /* This creates the “blank line above” while keeping layout unchanged */
-  padding-top: 1rem;
-  margin-top: -1rem;
+  padding-top: 1.25rem;
+  margin-top: -1.25rem;
   /* invisible and non-interactive */
   visibility: hidden;
   pointer-events: none;
