@@ -28,24 +28,24 @@ color: default
   
 
 <script>
+// TOC resizing
 (function () {
   const mq = window.matchMedia("(max-width: 520px)");
 
   function fitTOC() {
     const toc = document.querySelector(".toc");
-    if (!toc) return;
+    const inner = toc && toc.querySelector(".toc-inner");
+    if (!toc || !inner) return;
 
-    const inner = toc.querySelector(".toc-inner");
-    if (!inner) return;
-
-    // reset first
+    // Reset first
     inner.style.transform = "";
 
-    // only shrink on small screens
+    // Only shrink on small screens
     if (!mq.matches) return;
 
-    const target = toc.clientWidth;      // exactly the same usable width as the rest of the text
-    const natural = inner.scrollWidth;   // how wide the TOC wants to be
+    // Sub-pixel measurements + small safety margin to prevent clipping
+    const target = toc.getBoundingClientRect().width - 2;  // 2px buffer
+    const natural = inner.getBoundingClientRect().width;
 
     if (natural > 0) {
       const scale = Math.min(1, target / natural);
@@ -53,12 +53,18 @@ color: default
     }
   }
 
-  window.addEventListener("load", fitTOC);
+  // Run in a way that also catches late-loading webfonts
+  window.addEventListener("load", () => requestAnimationFrame(fitTOC));
   window.addEventListener("resize", fitTOC);
   if (mq.addEventListener) mq.addEventListener("change", fitTOC);
   else mq.addListener(fitTOC); // older Safari
+
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(fitTOC);
+  }
 })();
 </script>
+
 
 
 
