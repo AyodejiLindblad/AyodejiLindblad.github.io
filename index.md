@@ -128,7 +128,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 <hr class="hr-600">
 
-<div style="flex: 1; text-align: center; --img-width: 450px;">
+<div style="flex: 1; text-align: center; --img-width: 400px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/resources/imgs/Fano.png"

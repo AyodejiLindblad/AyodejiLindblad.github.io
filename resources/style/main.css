@@ -87,7 +87,7 @@ html, body {
 
 /* Add some “air” above anchor targets */
 h1[id], h2[id], h3[id] {
-  scroll-margin-top: 1rem;  /* tweak: 0.75rem, 1rem, 1.5rem, etc */
+  scroll-margin-top: 2rem;  /* tweak: 0.75rem, 1rem, 1.5rem, etc */
 }
 
 
