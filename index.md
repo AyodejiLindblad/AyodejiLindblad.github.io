@@ -28,7 +28,7 @@ layout: default
 
 **Welcome to my website.**
 
-I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my CV [at this link](https://drive.google.com/file/d/1e4w3e4dgLDcC4zWQJk_w8zFAUt9QkYEA/view?usp=drive_link).
+I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my CV [at this link](resources/pdfs/Ayodeji%20Lindblad%20CV.pdf).
 
 
 ---
@@ -40,11 +40,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     <span style="display:block; height:0.25em;"></span>
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere $\Sigma$. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)) which verified the cases when $\Sigma$ is a complex projective space or $S^2$.
   
-* A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
+* A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](resources/pdfs/Asymptotically%20optimal%20$t$-design%20curves%20on%20$S^3$.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
     <span style="display:block; height:0.25em;"></span>
     Solves the dimension 3 case of the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on $S^d$ for $d > 2$.
     
-* A. Lindblad. [Asymptotically short generalizations of t\-design curves](https://drive.google.com/file/d/1AzJJJvKVxr380cAapRny8Pr8qEjeXrdZ/view?usp=drivesdk). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
+* A. Lindblad. [Asymptotically short generalizations of t\-design curves](resources/pdfs/Asymptotically%20short%20generalizations%20of%20t-design%20curves.pdf). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
     <span style="display:block; height:0.25em;"></span>
     Proves existence of natural analogues of $t$-design curves we call *approximate* and *weighted $t$-design curves* satisfying certain desirable properties which achieve the optimal asymptoitic order of length of spherical $t$-design curves on all odd-dimensional spheres in the approximate setting and on all spheres in the weighted setting. Explicit formulas for such weighted $t$\-design curves for all $t$ on $S^2$ and $S^3$ are given.
         
@@ -74,7 +74,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 * [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 3/14/2025. 
     <span style="display:block; height:0.25em;"></span>
-    I discussed geometric constructions of spherical $t$\-designs and $t$\-design curves, with a focus on my work in both settings.
+    I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](resources/pdfs/Asymptotically%20optimal%20$t$-design%20curves%20on%20$S^3$.pdf).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 10/15/2024.  
     <span style="display:block; height:0.25em;"></span>
@@ -86,7 +86,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     
 * [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 4/6/2024.  
     <span style="display:block; height:0.25em;"></span>
-    [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed my paper of the same name.
+    [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed [my paper](https://rdcu.be/eSi5F) of the same name.
     
 
 ---
@@ -169,7 +169,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk"
+      <a href="resources/pdfs/Asymptotically optimal $t$-design curves on $S^3$.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A 3-design curve—a curve whose associated line integral averages all degree at most 3 polynomials—on the 3-sphere
       </a>
@@ -194,7 +194,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="https://drive.google.com/file/d/1WUC5eNBkv4DSW_V0KPvPMj1BRw4jKUGt/view?usp=drivesdk"
+      <a href="resources/pdfs/Asymptotically optimal $t$-design curves on $S^3$.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         3-design curves—curves whose associated line integrals average all degree at most 3 polynomials—on tori
       </a>
