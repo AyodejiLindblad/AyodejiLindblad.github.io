@@ -85,6 +85,12 @@ html, body {
   }
 }
 
+/* Make hash-jumps land with a little “air” above the heading text */
+h1[id], h2[id], h3[id], h4[id],
+a[id] {
+  padding-top: 1.25rem !important;
+  margin-top: -1.25rem !important;
+}
 
 
 
