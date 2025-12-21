@@ -47,32 +47,31 @@ hr.hr-600 {
   max-width: 100%;                /* don’t overflow on small screens */
 }
 
-/* Prevent small screens from “helpfully” enlarging text */
-html {
+/* Prevent iOS “text inflation” (doesn't change normal desktop look) */
+html, body {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
-
+/* Default: do NOT change your desktop/tablet look */
 .toc {
-  margin: 0.75rem auto 0;
-  max-width: calc(100vw - 2rem);   /* ~1rem gap on each side */
-  display: flex;
-  flex-wrap: wrap;                 /* wraps if it absolutely must */
-  justify-content: center;
-  align-items: center;
-
-  /* Never larger than your normal text (1em), but shrinks on small screens */
-  font-size: clamp(0.85em, 3.2vw, 1em);
-  line-height: 1.2;
+  text-align: center;
 }
-
-.toc > span {
-  white-space: nowrap;             /* keep each label intact */
+/* Ensure separators never get underlined */
+.toc-sep {
+  text-decoration: none;
 }
+/* Only on small screens: shrink to fit with side gap */
+@media (max-width: 520px) {
+  .toc {
+    max-width: calc(100vw - 2rem); /* gap on both sides */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1rem;
 
-/* separators (not clickable) */
-.toc > span:not(:last-child)::after {
-  content: " | ";
+    white-space: nowrap; /* stay on one line */
+    font-size: clamp(0.72em, 3.6vw, 1em); /* shrink on small screens only */
+    line-height: 1.2;
+  }
 }
 
 
