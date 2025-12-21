@@ -86,7 +86,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     <span style="display:block; height:0.25em;"></span>
     I provided an introduction to Morse theory and Floer theories.
     
-* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
+* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional Meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
     <span style="display:block; height:0.25em;"></span>
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed [my paper](https://rdcu.be/eSi5F) of the same name.
     
