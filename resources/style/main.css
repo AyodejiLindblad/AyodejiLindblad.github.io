@@ -82,3 +82,19 @@ html, body {
   visibility: hidden;
   pointer-events: none;
 }
+
+
+
+/* Make all links black by default */
+a,
+a:link,
+a:visited {
+  color: #000;
+}
+/* Turn purple on hover (and keyboard focus, which is nice) */
+a:hover,
+a:focus {
+  color: rgb(134, 0, 187);
+}
+/* Optional: keep underline behavior consistent */
+a { text-decoration: underline; }
