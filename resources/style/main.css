@@ -74,10 +74,10 @@ html, body {
 /* Small screens only: shrink to fit, with side gap */
 @media (max-width: 520px) {
   .toc {
-    max-width: calc(100vw - 1rem); /* ~1rem gap each side */
+    max-width: calc(100vw - 0rem); /* ~1rem gap each side */
     margin-left: auto;
     margin-right: auto;
-    padding: 0 1rem;
+    padding: 0 0rem;
 
     white-space: nowrap;          /* stay on one line */
     font-size: clamp(0.62em, 3.6vw, 1em);  /* shrink only on small screens */
