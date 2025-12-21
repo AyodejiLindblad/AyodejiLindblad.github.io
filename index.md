@@ -59,7 +59,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 ---
 
-<div id="xpository" class="toc-jump"></div>
+<div id="expository" class="toc-jump"></div>
 **Expository:**
 
 * [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
