@@ -212,12 +212,19 @@ Coming soon!
 
 ---
 
-This page has been loaded <span id="site-total-number">—</span> total times since its creation at the end of 2025.
+This page has been loaded <span id="site-total-number">—</span> total times in <span id="site-total-sessions">—</span> distinct sessions since its creation at the end of 2025.
 
 <script>
   fetch('https://ayodejilindblad.goatcounter.com/counter/TOTAL.json')
     .then(r => r.json())
     .then(d => { document.getElementById('site-total-number').textContent = d.count; })
+    .catch(() => {});
+</script>
+
+<script>
+  fetch('https://ayodejilindbladsessions.goatcounter.com/counter/TOTAL.json')
+    .then(r => r.json())
+    .then(d => { document.getElementById('site-total-sessions').textContent = d.count; })
     .catch(() => {});
 </script>
 
