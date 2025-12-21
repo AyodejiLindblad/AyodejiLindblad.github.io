@@ -16,10 +16,10 @@ layout: default
 </h1>
 
 <p class="toc">
-  <a href="#research">Research</a> <span class="toc-sep">|</span>
-  <a href="#expository">Expository</a> <span class="toc-sep">|</span>
-  <a href="#talks">Talks</a> <span class="toc-sep">|</span>
-  <a href="#organization">Organization</a> <span class="toc-sep">|</span>
+  <a href="#research">Research</a><span class="toc-sep"> | </span>
+  <a href="#expository">Expository</a><span class="toc-sep"> | </span>
+  <a href="#talks">Talks</a><span class="toc-sep"> | </span>
+  <a href="#organization">Organization</a><span class="toc-sep"> | </span>
   <a href="#figures">Figures</a>
 </p>
 

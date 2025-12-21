@@ -47,29 +47,40 @@ hr.hr-600 {
   max-width: 100%;                /* don’t overflow on small screens */
 }
 
-/* Prevent iOS “text inflation” (doesn't change normal desktop look) */
+/* Stop iOS from “inflating” text sizes */
 html, body {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
-/* Default: do NOT change your desktop/tablet look */
+
+/* Default (non-small screens): keep your old look */
 .toc {
   text-align: center;
+  text-decoration: none;   /* crucial: prevents the separators being underlined */
 }
-/* Ensure separators never get underlined */
-.toc-sep {
-  text-decoration: none;
+/* Only underline links (not the separators) */
+.toc a {
+  text-decoration: underline;
 }
-/* Only on small screens: shrink to fit with side gap */
+/* separators should never be underlined */
+.toc .toc-sep {
+  text-decoration: none !important;
+}
+/* OPTIONAL: keep TOC links from turning purple after you click them */
+.toc a:link,
+.toc a:visited {
+  color: #0000EE;
+}
+/* Small screens only: shrink to fit, with side gap */
 @media (max-width: 520px) {
   .toc {
-    max-width: calc(100vw - 2rem); /* gap on both sides */
+    max-width: calc(100vw - 2rem); /* ~1rem gap each side */
     margin-left: auto;
     margin-right: auto;
     padding: 0 1rem;
 
-    white-space: nowrap; /* stay on one line */
-    font-size: clamp(0.72em, 3.6vw, 1em); /* shrink on small screens only */
+    white-space: nowrap;          /* stay on one line */
+    font-size: clamp(0.62em, 3.6vw, 1em);  /* shrink only on small screens */
     line-height: 1.2;
   }
 }
