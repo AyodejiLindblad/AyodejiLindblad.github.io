@@ -121,7 +121,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="designs"
+      <a href="#designs"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         Values of a polynomial $f$ on Hopf fibers and the polynomial on the 2-sphere whose value at a point is the average of $f$ on the Hopf fiber associated to that point
       </a>
@@ -146,7 +146,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="designs"
+      <a href="#designs"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         The Fano plane, which visualizes how to multiply octonions.
       </a>
@@ -171,7 +171,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="S3Paper"
+      <a href="#S3Paper"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A 3-design curve—a curve whose associated line integral averages all degree at most 3 polynomials—on the 3-sphere
       </a>
@@ -196,7 +196,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="S3Paper"
+      <a href="#S3Paper"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         3-design curves—curves whose associated line integrals average all degree at most 3 polynomials—on tori
       </a>
