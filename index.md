@@ -115,7 +115,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
-        margin-top: 25px;
+        margin-top: 15px;
         width: 100%;
         overflow-wrap: anywhere;
         word-break: break-word;
@@ -140,7 +140,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
-        margin-top: 25px;
+        margin-top: 15px;
         width: 100%;
         overflow-wrap: anywhere;
         word-break: break-word;
@@ -165,7 +165,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
-        margin-top: 25px;
+        margin-top: 15px;
         width: 100%;
         overflow-wrap: anywhere;
         word-break: break-word;
@@ -190,7 +190,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     <figcaption
       style="
         font-family: 'Computer Modern Serif', serif;
-        margin-top: 25px;
+        margin-top: 15px;
         width: 100%;
         overflow-wrap: anywhere;
         word-break: break-word;
