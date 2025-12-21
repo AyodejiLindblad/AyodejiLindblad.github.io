@@ -47,3 +47,32 @@ hr.hr-600 {
   max-width: 100%;                /* don’t overflow on small screens */
 }
 
+/* Prevent small screens from “helpfully” enlarging text */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+.toc {
+  margin: 0.75rem auto 0;
+  max-width: calc(100vw - 2rem);   /* ~1rem gap on each side */
+  display: flex;
+  flex-wrap: wrap;                 /* wraps if it absolutely must */
+  justify-content: center;
+  align-items: center;
+
+  /* Never larger than your normal text (1em), but shrinks on small screens */
+  font-size: clamp(0.85em, 3.2vw, 1em);
+  line-height: 1.2;
+}
+
+.toc > span {
+  white-space: nowrap;             /* keep each label intact */
+}
+
+/* separators (not clickable) */
+.toc > span:not(:last-child)::after {
+  content: " | ";
+}
+
+

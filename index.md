@@ -15,13 +15,13 @@ layout: default
   Ayodeji Lindblad
 </h1>
 
-<p align="center">
-  <a href="#research">Research</a> |
-  <a href="#expository">Expository</a> |
-  <a href="#talks">Talks</a> |
-  <a href="#organization">Organization</a> |
-  <a href="#figures">Figures</a>
-</p>
+<nav class="toc" aria-label="Site sections">
+  <span><a href="#research">Research</a></span>
+  <span><a href="#expository">Expository</a></span>
+  <span><a href="#talks">Talks</a></span>
+  <span><a href="#organization">Organization</a></span>
+  <span><a href="#figures">Figures</a></span>
+</nav>
 
 
 ---
