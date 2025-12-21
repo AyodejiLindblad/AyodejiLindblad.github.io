@@ -75,9 +75,9 @@ html, body {
 @media (max-width: 520px) {
   .toc {
     width: 100%;
-  max-width: none;
-  padding: 0;
-  box-sizing: border-box;
+    max-width: none;
+    padding: 0;
+    box-sizing: border-box;
 
     white-space: nowrap;          /* stay on one line */
     font-size: clamp(0.62em, 3.6vw, 1em);  /* shrink only on small screens */
