@@ -28,7 +28,7 @@ color: default
   
 
 <script>
-  // TOC resizing
+// TOC resizing
 (function () {
   const mq = window.matchMedia("(max-width: 520px)");
 
@@ -37,20 +37,21 @@ color: default
     const inner = toc && toc.querySelector(".toc-inner");
     if (!toc || !inner) return;
 
-    // Reset first
-    inner.style.transform = "";
+    // Always reset to normal first
+    toc.style.fontSize = "1em";
 
-    // Only on small screens
+    // Only shrink on small screens
     if (!mq.matches) return;
 
-    const target = toc.clientWidth;     // available width
-    const natural = inner.scrollWidth;  // full unscaled width
+    const target = toc.getBoundingClientRect().width;   // the text column width
+    const natural = inner.getBoundingClientRect().width;
 
-    // Don't shrink for tiny rounding differences
-    if (natural <= target + 1) return;
+    // Only shrink if it truly overflows (tolerance for rounding/font rendering)
+    if (natural <= target + 0.5) return;
 
-    const scale = target / natural;
-    inner.style.transform = `scale(${scale})`;
+    // Small safety margin so it never clips
+    const scale = (target - 1) / natural;
+    toc.style.fontSize = `${scale}em`;
   }
 
   function runSoon() {
@@ -60,13 +61,14 @@ color: default
   window.addEventListener("load", runSoon);
   window.addEventListener("resize", runSoon);
   if (mq.addEventListener) mq.addEventListener("change", runSoon);
-  else mq.addListener(runSoon); // older Safari
+  else mq.addListener(runSoon);
 
   if (document.fonts && document.fonts.ready) {
     document.fonts.ready.then(runSoon);
   }
 })();
 </script>
+
 
 
 
