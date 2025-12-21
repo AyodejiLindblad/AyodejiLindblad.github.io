@@ -85,14 +85,16 @@ html, body {
   }
 }
 
-/* Add some “air” above anchor targets */
-.jump {
+/* Add “air” above whatever element is being jumped to via #hash */
+h1:target::before,
+h2:target::before,
+h3:target::before {
+  content: "";
   display: block;
-  height: 0;
-  position: relative;
-  top: -1.5rem;     /* controls the “blank line” above the header */
-  visibility: hidden;
+  height: 1.25rem;      /* amount of blank space */
+  margin-top: -1.25rem; /* must match height */
 }
+
 
 
 
