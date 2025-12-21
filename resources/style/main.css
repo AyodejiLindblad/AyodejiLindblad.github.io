@@ -86,12 +86,16 @@ html, body {
 }
 
 /* Make hash-jumps land with a little “air” above the heading text */
-h1[id], h2[id], h3[id], h4[id],
-a[id] {
-  padding-top: 1.25rem !important;
-  margin-top: -1.25rem !important;
+.toc-jump {
+  display: block;
+  height: 0;
+  /* This creates the “blank line above” while keeping layout unchanged */
+  padding-top: 1.25rem;
+  margin-top: -1.25rem;
+  /* invisible and non-interactive */
+  visibility: hidden;
+  pointer-events: none;
 }
-
 
 
 
