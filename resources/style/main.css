@@ -98,3 +98,18 @@ a:focus {
 }
 /* Optional: keep underline behavior consistent */
 a { text-decoration: underline; }
+
+
+
+/* Gray text */
+.gray-block {
+  color: #666;
+}
+.gray-block mjx-container,
+.gray-block .MathJax {
+  color: inherit;
+}
+.gray-block a {
+  color: inherit;
+  text-decoration: underline;
+}
