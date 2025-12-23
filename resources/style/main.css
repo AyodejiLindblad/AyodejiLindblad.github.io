@@ -99,21 +99,3 @@ a:focus {
 /* Optional: keep underline behavior consistent */
 a { text-decoration: underline; }
 
-
-
-/* Gray text */
-p.gray-block {
-  color: #666 !important;
-  margin: 0;              /* removes the paragraph spacing */
-}
-
-p.gray-block mjx-container,
-p.gray-block .MathJax {
-  color: inherit;
-}
-
-p.gray-block a {
-  color: inherit;
-  text-decoration: underline;
-}
-

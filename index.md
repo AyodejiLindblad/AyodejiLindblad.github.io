@@ -40,15 +40,11 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
     <!--<span style="display:block; height:0.25em;"></span>-->
-    <div class="gray-block" markdown="1">
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere $\Sigma$. This generalizes work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)) which verified the cases when $\Sigma$ is a complex projective space or the 2-sphere.
-    </div>
   
 * A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](resources/pdfs/Asymptotically%20optimal%20$t$-design%20curves%20on%20$S^3$.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
     <!--<span style="display:block; height:0.25em;"></span>-->
-    <span style="color:#666">
     Solves the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on the 3-sphere.
-    </span>
     
 * A. Lindblad. [Asymptotically short generalizations of t\-design curves](resources/pdfs/Asymptotically%20short%20generalizations%20of%20t-design%20curves.pdf). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
     <!--<span style="display:block; height:0.25em;"></span>-->
