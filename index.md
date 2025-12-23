@@ -46,14 +46,13 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     
 * A. Lindblad. [Asymptotically short generalizations of t\-design curves](resources/pdfs/Asymptotically%20short%20generalizations%20of%20t-design%20curves.pdf). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
     Proves existence of approximate and weighted $t$-design curves satisfying certain desirable properties which achieve the optimal asymptoitic order of length of spherical $t$-design curves on the $d$-sphere for all odd $d$ in the approximate setting and all $d$ in the weighted setting. Explicit formulas for such weighted $t$\-design curves on the 2-sphere and 3-sphere are given for all $t$.
-        
-* [C. Alvarado](https://alvarado-alvarez.github.io/), A. Lindblad, supported by [Tang-Kai Lee](https://www.math.columbia.edu/~leetk/). [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
-    Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. Produced as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/).
-    
+
 * A. Lindblad. Abelianized boundary Dehn twists on connected sums of complete intersections. *In preparation*, 2026.
     
 * A. Lindblad. Lifting design curves. *In preparation*, 2026.
         
+* [C. Alvarado](https://alvarado-alvarez.github.io/), A. Lindblad, supported by [Tang-Kai Lee](https://www.math.columbia.edu/~leetk/). [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
+    Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow. Produced as part of [MIT SPUR](https://math.mit.edu/research/undergraduate/spur/).        
 
 ---
 
