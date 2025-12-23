@@ -102,14 +102,18 @@ a { text-decoration: underline; }
 
 
 /* Gray text */
-.gray-block {
-  color: #666;
+p.gray-block {
+  color: #666 !important;
+  margin: 0;              /* removes the paragraph spacing */
 }
-.gray-block mjx-container,
-.gray-block .MathJax {
+
+p.gray-block mjx-container,
+p.gray-block .MathJax {
   color: inherit;
 }
-.gray-block a {
+
+p.gray-block a {
   color: inherit;
   text-decoration: underline;
 }
+

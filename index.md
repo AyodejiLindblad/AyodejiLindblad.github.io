@@ -46,7 +46,9 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
   
 * A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](resources/pdfs/Asymptotically%20optimal%20$t$-design%20curves%20on%20$S^3$.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
     <!--<span style="display:block; height:0.25em;"></span>-->
+    <span style="color:#666">
     Solves the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on the 3-sphere.
+    </span>
     
 * A. Lindblad. [Asymptotically short generalizations of t\-design curves](resources/pdfs/Asymptotically%20short%20generalizations%20of%20t-design%20curves.pdf). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
     <!--<span style="display:block; height:0.25em;"></span>-->
