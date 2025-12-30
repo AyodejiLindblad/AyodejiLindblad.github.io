@@ -56,6 +56,8 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 * A. Lindblad. Spherical $t$-designs which fail to average higher harmonics. *In preparation*, 2026.
 
+* A. Lindblad. Design submanifolds. *In preparation*, 2026.
+
 ---
 
 <div id="expository" class="toc-jump"></div>
