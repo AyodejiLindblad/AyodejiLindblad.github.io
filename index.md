@@ -73,7 +73,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div id="talks" class="toc-jump"></div>
 **Talks:**
 
-* [Geometrically designing geometric designs](https://photos.app.goo.gl/S6Uhk84pSQmK99BE8). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
+* [Geometrically designing geometric designs](resources/imgs/Geometrically%20designing%20geometric%20designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
     I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](resources/pdfs/Asymptotically%20optimal%20$t$-design%20curves%20on%20$S^3$.pdf).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 2024.  
