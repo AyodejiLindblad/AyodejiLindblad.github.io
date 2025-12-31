@@ -1,9 +1,10 @@
 # Site Settings
 title: Ayodeji Lindblad
 description: >
-  Ayodeji Lindblad
+  Ayodeji Lindblad (MIT Math PhD, low-dimensional topology and discrete geometry): CV, contact info, papers, & talks.
 baseurl: ''
 url: 'https://ayodejilindblad.com'
+permalink: pretty
 og_image: "https://ayodejilindblad.com/resources/imgs/icon.jpg"
 github_username: ayodejilindblad
 
