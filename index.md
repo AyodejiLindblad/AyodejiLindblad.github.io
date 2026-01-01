@@ -74,7 +74,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Talks:**
 
 * Boundary Dehn twists after abelianization. *[London Low Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
-    I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that many notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
+    I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
 
 * [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
     I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
