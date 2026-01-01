@@ -9,44 +9,33 @@ layout: null
 
     <title>{{ page.title | escape }}</title>
 
-    {%- if page.description -%}
+    {% if page.description %}
     <meta name="description" content="{{ page.description | escape }}">
-    {%- endif -%}
+    {% endif %}
 
-    {%- comment -%} Canonical + OpenGraph + Twitter {%- endcomment -%}
     <link rel="canonical" href="{{ page.url | absolute_url }}">
-
     <meta property="og:title" content="{{ page.title | escape }}">
-    {%- if page.description -%}
-    <meta property="og:description" content="{{ page.description | escape }}">
-    {%- endif -%}
+    {% if page.description %}<meta property="og:description" content="{{ page.description | escape }}">{% endif %}
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ page.title | escape }}">
-    {%- if page.description -%}
-    <meta name="twitter:description" content="{{ page.description | escape }}">
-    {%- endif -%}
-
-    {%- comment -%} Optional: prevent indexing if you ever set `noindex: true` {%- endcomment -%}
-    {%- if page.noindex -%}
-    <meta name="robots" content="noindex, nofollow">
-    {%- endif -%}
-
-    <style>
-      html, body { margin: 0; padding: 0; height: 100%; width: 100%; }
-      iframe { border: 0; width: 100vw; height: 100vh; display: block; }
-    </style>
+    {% if page.pdf %}
+      {% assign pdf_url = page.pdf | relative_url %}
+      <!-- Instant redirect (works well on iOS) -->
+      <meta http-equiv="refresh" content="0; url={{ pdf_url }}">
+      <script>
+        window.location.replace("{{ pdf_url }}");
+      </script>
+    {% endif %}
   </head>
 
   <body>
-    {%- if page.pdf -%}
-      {%- assign pdf_url = page.pdf | relative_url -%}
-      <iframe src="{{ pdf_url }}#zoom=100"></iframe>
-    {%- else -%}
-      <!-- If you forget `pdf:` in front matter, fail loudly but minimally -->
+    {% if page.pdf %}
+      <p style="margin:1rem;">
+        If you aren’t redirected, <a href="{{ page.pdf | relative_url }}">open the PDF</a>.
+      </p>
+    {% else %}
       <p style="margin:1rem;">Missing <code>pdf:</code> in front matter.</p>
-    {%- endif -%}
+    {% endif %}
   </body>
 </html>
