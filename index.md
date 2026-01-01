@@ -41,7 +41,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 * A. Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere, generalizing work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)).
   
-* A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](pdfs/Asymptotically-optimal-t--design-curves-on-S3.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
+* A. Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](research/Asymptotically-optimal-t--design-curves-on-S3.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
     Solves the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on the 3-sphere.
     
 * A. Lindblad. [Asymptotically short generalizations of t\-design curves](https://arxiv.org/pdf/2505.03056). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
@@ -76,8 +76,8 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 * Boundary Dehn twists after abelianization. *[London Low Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that many notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
 
-* [Geometrically designing geometric designs](resources/imgs/Geometrically%20designing%20geometric%20designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
-    I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](pdfs/Asymptotically-optimal-t--design-curves-on-S3.pdf).
+* [Geometrically designing geometric designs](talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
+    I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 2024.  
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://msp.org/gt/2003/7-2/gt-v7-n2-p10-p.pdf) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
@@ -95,7 +95,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Organization:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
-    A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](pdfs/Low-PriCE-Abstracts.pdf).
+    A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
 
 
 ---
@@ -106,7 +106,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 600px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/PolyExample.jpg"
+      src="/figures/PolyExample.jpg"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -131,7 +131,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 400px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/Fano.png"
+      src="/figures/Fano.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -156,7 +156,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 350px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/S3ex.png"
+      src="/figures/S3ex.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -168,7 +168,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="pdfs/Asymptotically-optimal-t--design-curves-on-S3.pdf"
+      <a href="research/Asymptotically-optimal-t--design-curves-on-S3.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A 3-design curve—a curve whose associated line integral averages all degree at most 3 polynomials—on the 3-sphere
       </a>
@@ -181,7 +181,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 550px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/resources/imgs/Torusex.png"
+      src="/figures/Torusex.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -193,7 +193,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="pdfs/Asymptotically-optimal-t--design-curves-on-S3.pdf"
+      <a href="research/Asymptotically-optimal-t--design-curves-on-S3.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         3-design curves—curves whose associated line integrals average all degree at most 3 polynomials—on tori
       </a>
