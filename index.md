@@ -77,7 +77,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that many notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
 
 * [Geometrically designing geometric designs](resources/imgs/Geometrically%20designing%20geometric%20designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
-    I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](pdfs/Asymptotically_optimal_t-design_curves_on_S^3.pdf).
+    I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](pdfs/Asymptotically_optimal_t-design_curves_on_S3.pdf).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 2024.  
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://msp.org/gt/2003/7-2/gt-v7-n2-p10-p.pdf) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
