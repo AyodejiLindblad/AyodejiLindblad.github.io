@@ -38,34 +38,38 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div id="research" class="toc-jump"></div>
 **Research:**
 
-* Ayodeji Lindblad. [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
+* [Designs related through projective and Hopf maps](https://rdcu.be/eSi5F). *[Discrete & Computational Geometry](https://link.springer.com/article/10.1007/s00454-025-00805-7)*, 2025.  
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere, generalizing work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)).
   
-* Ayodeji Lindblad. [Asymptotically optimal $t$\-design curves on $S^3$](research/Asymptotically-optimal-t--design-curves-on-S3.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
+* [Asymptotically optimal $t$\-design curves on $S^3$](research/Asymptotically-optimal-t--design-curves-on-S3.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
+>>>>>>> e9bbbbf63b103ae13e4620563546dffdeecac9d2
     Solves the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on the 3-sphere.
     
-* Ayodeji Lindblad. [Asymptotically short generalizations of t\-design curves](https://arxiv.org/pdf/2505.03056). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
+* [Asymptotically short generalizations of t\-design curves](https://arxiv.org/pdf/2505.03056). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), to be submitted for publication*, 2025.  
     Proves existence of approximate and weighted $t$-design curves satisfying certain desirable properties which achieve the optimal asymptoitic order of length of spherical $t$-design curves on the $d$-sphere for all odd $d$ in the approximate setting and all $d$ in the weighted setting. Explicit formulas for such weighted $t$\-design curves on the 2-sphere and 3-sphere are given for all $t$.
         
-* [Carlos Alvarado](https://alvarado-alvarez.github.io/), Ayodeji Lindblad, supported by [Tang-Kai Lee](https://www.math.columbia.edu/~leetk/). [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.    
+* [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
+    Joint with [Carlos Alvarado](https://alvarado-alvarez.github.io/),, supported by [Tang-Kai Lee](https://www.math.columbia.edu/~leetk/).  
     Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow.
     
-* A. Lindblad. Abelianized boundary Dehn twists on connected sums of complete intersections. *In preparation*, 2026.
+* Abelianized boundary Dehn twists on connected sums of complete intersections. *In preparation*, 2026.
     
-* A. Lindblad. Lifting design curves. *In preparation*, 2026.
+* Lifting design curves. *In preparation*, 2026.
 
-* A. Lindblad. Spherical $t$-designs which fail to average higher harmonics. *In preparation*, 2026.
+* Spherical $t$-designs which fail to average higher harmonics. *In preparation*, 2026.
 
-* A. Lindblad. Design submanifolds. *In preparation*, 2026.
+* Design submanifolds. *In preparation*, 2026.
 
 ---
 
 <div id="expository" class="toc-jump"></div>
 **Expository:**
 
-* [J. Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [J. Chen](https://math.mit.edu/directory/profile.html?pid=2584), [N. Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), A. Lindblad, [T. Mrowka](https://math.mit.edu/~mrowka/), [O. Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.
+* Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.  
+Joint with [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Nathan Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), [Tomasz Mrowka](https://math.mit.edu/~mrowka/), [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).  
 
-* [E. Colón](https://www.math.harvard.edu/people/colon-enrico/), A. Lindblad, [G. Martin](https://sites.google.com/view/gagemartin/home), [M. Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.
+* Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.  
+Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [Gage Martin](https://sites.google.com/view/gagemartin/home), [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html).  
         
 
 ---
