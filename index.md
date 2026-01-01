@@ -99,7 +99,8 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 **Organization:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
-    A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
+Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
+    A meeting on low-dimensional topology which I organized. Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
 
 
 ---
