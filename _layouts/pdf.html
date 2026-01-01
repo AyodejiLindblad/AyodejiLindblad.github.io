@@ -1,25 +1,52 @@
 ---
-layout: default
+layout: null
 ---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<h1>{{ page.title }}</h1>
+    <title>{{ page.title | escape }}</title>
 
-{% if page.description %}
-<p>{{ page.description }}</p>
-{% endif %}
+    {%- if page.description -%}
+    <meta name="description" content="{{ page.description | escape }}">
+    {%- endif -%}
 
-{% if page.pdf %}
-<p><a href="{{ page.pdf | relative_url }}">Download PDF</a></p>
+    {%- comment -%} Canonical + OpenGraph + Twitter {%- endcomment -%}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-<div class="pdf-embed">
-  <iframe
-    src="{{ page.pdf | relative_url }}"
-    width="100%"
-    height="900"
-    style="border:0"
-    loading="lazy">
-  </iframe>
-</div>
-{% else %}
-<p><em>Error:</em> no <code>pdf:</code> set in this page’s front matter.</p>
-{% endif %}
+    <meta property="og:title" content="{{ page.title | escape }}">
+    {%- if page.description -%}
+    <meta property="og:description" content="{{ page.description | escape }}">
+    {%- endif -%}
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title | escape }}">
+    {%- if page.description -%}
+    <meta name="twitter:description" content="{{ page.description | escape }}">
+    {%- endif -%}
+
+    {%- comment -%} Optional: prevent indexing if you ever set `noindex: true` {%- endcomment -%}
+    {%- if page.noindex -%}
+    <meta name="robots" content="noindex, nofollow">
+    {%- endif -%}
+
+    <style>
+      html, body { margin: 0; padding: 0; height: 100%; width: 100%; }
+      iframe { border: 0; width: 100vw; height: 100vh; display: block; }
+    </style>
+  </head>
+
+  <body>
+    {%- if page.pdf -%}
+      {%- assign pdf_url = page.pdf | relative_url -%}
+      <iframe src="{{ pdf_url }}#zoom=100"></iframe>
+    {%- else -%}
+      <!-- If you forget `pdf:` in front matter, fail loudly but minimally -->
+      <p style="margin:1rem;">Missing <code>pdf:</code> in front matter.</p>
+    {%- endif -%}
+  </body>
+</html>

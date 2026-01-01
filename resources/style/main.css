@@ -98,10 +98,3 @@ a:focus {
 }
 /* Optional: keep underline behavior consistent */
 a { text-decoration: underline; }
-
-
-/* Tweaks PDFs to make them look better? */
-.pdf-embed iframe {
-  width: 100%;
-  height: 85vh;
-}
