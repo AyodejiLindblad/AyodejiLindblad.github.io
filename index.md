@@ -95,7 +95,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Organization:**
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
-    A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](pdfs/Low-PriCE-Schedule-and-Abstracts.pdf).
+    A meeting on low-dimensional topology which I organized alongside [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). Abstracts from the event can be found [here](pdfs/Low-PriCE-Abstracts.pdf).
 
 
 ---
