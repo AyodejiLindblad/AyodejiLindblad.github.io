@@ -106,7 +106,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 600px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/figures/PolyExample.jpg"
+      src="/figures/Average-on-Hopf-fibers.jpg"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -156,7 +156,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 350px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/figures/S3ex.png"
+      src="/figures/S3-3--design-curve.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
@@ -181,7 +181,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 <div style="flex: 1; text-align: center; --img-width: 550px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
-      src="/figures/Torusex.png"
+      src="/figures/Toric-3--design-curves.png"
       style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
     >
     <figcaption
