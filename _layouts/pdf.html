@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.description %}
+<p>{{ page.description }}</p>
+{% endif %}
+
+{% if page.pdf %}
+<p><a href="{{ page.pdf | relative_url }}">Download PDF</a></p>
+
+<div class="pdf-embed">
+  <iframe
+    src="{{ page.pdf | relative_url }}"
+    width="100%"
+    height="900"
+    style="border:0"
+    loading="lazy">
+  </iframe>
+</div>
+{% else %}
+<p><em>Error:</em> no <code>pdf:</code> set in this page’s front matter.</p>
+{% endif %}

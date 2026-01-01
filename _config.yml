@@ -35,3 +35,12 @@ defaults:
       include_jquery: false
       include_plotlyjs: false
       layout: "default"
+
+
+collections:
+  papers:
+    output: true
+    permalink: /papers/:name/
+  figures:
+    output: true
+    permalink: /figures/:name/
