@@ -168,7 +168,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="research/Asymptotically-optimal-t--design-curves-on-S3.pdf"
+      <a href="research/Asymptotically-optimal-t--design-curves-on-S3.pdf#page=10"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A 3-design curve—a curve whose associated line integral averages all degree at most 3 polynomials—on the 3-sphere
       </a>
@@ -193,7 +193,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
         word-break: break-word;
       "
     >
-      <a href="research/Asymptotically-optimal-t--design-curves-on-S3.pdf"
+      <a href="research/Asymptotically-optimal-t--design-curves-on-S3.pdf#page=11"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         3-design curves—curves whose associated line integrals average all degree at most 3 polynomials—on tori
       </a>
