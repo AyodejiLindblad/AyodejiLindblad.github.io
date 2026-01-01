@@ -30,7 +30,7 @@ layout: default
 
 **Welcome to my website.**
 
-I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. Previously, I graduated from MIT with a BS in mathematics. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my [CV at this link]({{ '/cv/' | relative_url }}).
+I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology, gauge theory, and discrete geometry. Previously, I graduated from MIT with a BS in mathematics. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my [CV at this link](papers/Ayodeji%20Lindblad%20CV.pdf).
 
 
 ---
