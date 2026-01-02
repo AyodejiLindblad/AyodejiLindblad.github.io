@@ -75,7 +75,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="talks" class="toc-jump"></div>
 **Talks:**
 
-* Boundary Dehn twists after abelianization. *[London Low Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
+* Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
 
 * Skein lasagna modules and handle attachments. *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
