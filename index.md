@@ -64,10 +64,10 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 **Expository:**
 
 * Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.  
-Joint with [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Nathan Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), [Tomasz Mrowka](https://math.mit.edu/~mrowka/), [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).  
+Joint with [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Nathan Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), [Tomasz Mrowka](https://math.mit.edu/~mrowka/), [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). These notes, which follow a mini-course presented by John Baldwin and Tomasz Mrowka at the meeting New structures in low-dimensional topology in Budapest, define instanton Floer homology--a powerful 3-manifold invariant--and discuss applications to sutured manifolds and knot theory.
 
 * Khovanov Skein lasagna modules for the working topologist. *In preparation*, 2026.  
-Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [Gage Martin](https://sites.google.com/view/gagemartin/home), [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html).  
+Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [Gage Martin](https://sites.google.com/view/gagemartin/home), [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). These notes present Khovanov skein lasagna modules and their impacts from the perspective of low-dimensional topology.
         
 
 ---
