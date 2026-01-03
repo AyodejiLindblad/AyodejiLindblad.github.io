@@ -78,7 +78,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
 
-* Skein lasagna modules and handle attachments. *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
+* [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
     I will discuss work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments affect the skein lasagna modules of 4-manifolds and computing the skein lasagna modules of 2-handlebodies.
 
 * [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
