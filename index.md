@@ -54,8 +54,6 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     
 * Lifting design curves. *In preparation*, 2026.
 
-* Spherical $t$-designs which fail to average higher harmonics. *In preparation*, 2026.
-
 * Design submanifolds. *In preparation*, 2026.
 
 ---
