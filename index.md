@@ -148,7 +148,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
         word-break: break-word;
       "
     >
-      <a href="https://rdcu.be/eSi5F"
+      <a href="talks/Skein-lasagna-modules-and-handle-attachments.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         A dimensionally-reduced visualization of braiding the sheets of the surface of a lasagna filling, an important operation in computations of the skein lasagna modules of 2-handlebodies.
       </a>
