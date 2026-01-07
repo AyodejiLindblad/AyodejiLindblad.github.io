@@ -132,6 +132,33 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
 
 <hr class="hr-600">
 
+<!
+<div style="flex: 1; text-align: center; --img-width: 450px;">
+  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
+    <img
+      src="/figures/Lasagna-trace-braiding.jpg"
+      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
+    >
+    <figcaption
+      style="
+        font-family: 'Computer Modern Serif', serif;
+        margin-top: 20px;
+        width: 100%;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+      "
+    >
+      <a href="https://rdcu.be/eSi5F"
+         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
+        A dimensionally-reduced visualization of braiding the sheets of the surface of a lasagna filling, an important operation in computations of the skein lasagna modules of 2-handlebodies.
+      </a>
+    </figcaption>
+  </figure>
+</div>
+>
+
+
+<!--
 <div style="flex: 1; text-align: center; --img-width: 400px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
@@ -154,6 +181,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     </figcaption>
   </figure>
 </div>
+-->
 
 <hr class="hr-600">
 
