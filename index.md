@@ -97,7 +97,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="organization" class="toc-jump"></div>
 **Organization:**
 
-* The Low-dimensional Cambridge-Organized Student Topology Gathering (the Low COST Gathering). *MIT and Harvard*, 2026 or 2027.  
+* The Low-dimensional Cambridge & Other Schools Topology Gathering (the Low COST Gathering). *MIT and Harvard*, 2026 or 2027.  
     A meeting on low-dimensional topology which I look forward to organizing in the future. Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in speaking or attending at such an event and I'll be in contact whenever it becomes a reality (though note, as is to be expected with the name, we likely won't have too much funding available for travel or lodging).
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
