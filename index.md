@@ -254,7 +254,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     >
       <a href="talks/Skein-lasagna-modules-and-handle-attachments.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
-        Braiding the sheets of the surface of a lasagna filling, an operation important in computing the skein lasagna modules of 2-handlebodies.
+        Braiding the sheets of the surface of a lasagna filling, an operation important in computing the skein lasagna modules of 2-handlebodies
       </a>
     </figcaption>
   </figure>
@@ -279,7 +279,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     >
       <a href="#research"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
-        The hyperelliptic involution on an orientable surface, which is central to one construction of the elliptic surfaces $E(n)$.
+        The hyperelliptic involution on an orientable surface, which is central to one construction of the elliptic surfaces $E(n)$
       </a>
     </figcaption>
   </figure>
