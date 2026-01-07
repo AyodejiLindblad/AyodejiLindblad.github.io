@@ -225,8 +225,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
         word-break: break-word;
       "
     >
-        The hyperelliptic involution on an oriented surface, which plays an important role in a construction of the elliptic surfaces E(n) and their generalizations X(m,n).
-      </a>
+      The hyperelliptic involution on an oriented surface, which plays an important role in a construction of the elliptic surfaces E(n) and their generalizations X(m,n).
     </figcaption>
   </figure>
 </div>
