@@ -132,7 +132,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
 
 <hr class="hr-600">
 
-<div style="flex: 1; text-align: center; --img-width: 350px;">
+<div style="flex: 1; text-align: center; --img-width: 300px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/figures/Lasagna-trace-braiding.jpg"
@@ -149,7 +149,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     >
       <a href="talks/Skein-lasagna-modules-and-handle-attachments.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
-        A dimensionally-reduced visualization of braiding the sheets of the surface of a lasagna filling, an operation important in computations of the skein lasagna modules of 2-handlebodies.
+        A dimensionally-reduced visualization of braiding the sheets of the surface of a lasagna filling, an operation important in computing the skein lasagna modules of 2-handlebodies.
       </a>
     </figcaption>
   </figure>
