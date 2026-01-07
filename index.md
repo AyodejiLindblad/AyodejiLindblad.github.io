@@ -262,7 +262,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
 
 <hr class="hr-600">
 
-<div style="flex: 1; text-align: center; --img-width: 500px;">
+<div style="flex: 1; text-align: center; --img-width: 550px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/figures/Hyperelliptic.jpeg"
