@@ -77,7 +77,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
     I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
 
 * [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
-    I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments affect the skein lasagna modules of 4-manifolds and relating the skein lasagna modules of 2-handlebodies to cabled Khovanov-Rozansky homology.
+    I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments preserve and don't enlargen the skein lasagna modules of 4-manifolds respectively and establishing an isomorphism between the skein lasagna modules of 2-handlebodies and cabled Khovanov-Rozansky homologies.
 
 * [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
     I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
