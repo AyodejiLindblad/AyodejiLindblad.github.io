@@ -208,31 +208,6 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
   </figure>
 </div>
 
-<hr class="hr-600">
-
-<div style="flex: 1; text-align: center; --img-width: 500px;">
-  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
-    <img
-      src="/figures/Hyperelliptic.jpeg"
-      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
-    >
-    <figcaption
-      style="
-        font-family: 'Computer Modern Serif', serif;
-        margin-top: 20px;
-        width: 100%;
-        overflow-wrap: anywhere;
-        word-break: break-word;
-      "
-    >
-      <a href="#research"
-         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
-        The hyperelliptic involution on an orientable surface, which is central to one construction of the elliptic surfaces E(n).
-      </a>
-    </figcaption>
-  </figure>
-</div>
-
 <!---
 <hr class="hr-600">
 
@@ -280,6 +255,31 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
       <a href="talks/Skein-lasagna-modules-and-handle-attachments.pdf"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
         Braiding the sheets of the surface of a lasagna filling, an operation important in computing the skein lasagna modules of 2-handlebodies.
+      </a>
+    </figcaption>
+  </figure>
+</div>
+
+<hr class="hr-600">
+
+<div style="flex: 1; text-align: center; --img-width: 500px;">
+  <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
+    <img
+      src="/figures/Hyperelliptic.jpeg"
+      style="width: 100%; height: auto; max-height: none; display: block; margin: 0 auto;"
+    >
+    <figcaption
+      style="
+        font-family: 'Computer Modern Serif', serif;
+        margin-top: 20px;
+        width: 100%;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+      "
+    >
+      <a href="#research"
+         style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
+        The hyperelliptic involution on an orientable surface, which is central to one construction of the elliptic surfaces E(n).
       </a>
     </figcaption>
   </figure>
