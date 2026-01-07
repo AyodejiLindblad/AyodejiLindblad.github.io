@@ -279,7 +279,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     >
       <a href="#research"
          style="display: block; width: 100%; overflow-wrap: anywhere; word-break: break-word;">
-        The hyperelliptic involution on an orientable surface, which is central to one construction of the elliptic surfaces \(E(n)\).
+        The hyperelliptic involution on an orientable surface, which is central to one construction of the elliptic surfaces $E(n)$.
       </a>
     </figcaption>
   </figure>
