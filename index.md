@@ -233,6 +233,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
   </figure>
 </div>
 
+<!---
 <hr class="hr-600">
 
 <div style="flex: 1; text-align: center; --img-width: 600px;">
@@ -257,6 +258,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     </figcaption>
   </figure>
 </div>
+--->
 
 <hr class="hr-600">
 
