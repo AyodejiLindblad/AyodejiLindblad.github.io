@@ -232,7 +232,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
 
 <hr class="hr-600">
 
-<div style="flex: 1; text-align: center; --img-width: 300px;">
+<div style="flex: 1; text-align: center; --img-width: 277.77px;">
   <figure style="display: inline-block; margin: 0; width: min(var(--img-width), 100%);">
     <img
       src="/figures/Lasagna-trace-braiding.jpg"
