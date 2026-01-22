@@ -55,7 +55,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 
 * Lifting design curves. *In preparation, to be submitted for publication*, 2026.
     
-* A note on t-designs of minimal harmonic strength. *In preparation*, 2026.
+* A note on $t$-designs of minimal harmonic strength. *In preparation*, 2026.
     
 * Harmonic strength related through geometric maps. *In preparation, to be submitted for publication*, 2026.
 
