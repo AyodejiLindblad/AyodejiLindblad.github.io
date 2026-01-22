@@ -89,7 +89,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional Meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed [my paper](https://rdcu.be/eSi5F) of the same name.
 
-**Seminar talks:**
+**Department talks:**
 
 * [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
     I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
