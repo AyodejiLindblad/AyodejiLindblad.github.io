@@ -73,10 +73,12 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 ---
 
 <div id="talks" class="toc-jump"></div>
-**Talks:**
+**Invited talks:**
 
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I will discuss my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
+
+**Additional talks:**
 
 * [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
     I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology.
