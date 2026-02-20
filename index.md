@@ -77,7 +77,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 **Invited talks:**
 
 * Geometric design of geometric designs. *[MIT Dean of Science Fellows Symposium](https://sites.mit.edu/scienceaace/dean-of-science-graduate-fellows-symposium/)*, 2026.  
-    I gave a short presentation on my work formalizing geometric constructions of geometric $t$-designs.
+    I gave a brief presentation on my work formalizing geometric constructions of geometric $t$-designs.
 
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I discussed my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
