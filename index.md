@@ -80,9 +80,12 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
     I gave a brief presentation on my work formalizing geometric constructions of geometric $t$-designs.
 
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
-    I discussed my forthcoming work on abelianized boundary Dehn twists on connected sums of complete intersections, which proves that notable boundary Dehn twists known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton become trivial after abelianization.
+    I discussed my forthcoming work which proves that abelianized boundary Dehn twists are trivial on broad families of manifolds, including many on which the boundary Dehn twists themselves are known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton.
 
 **Contributed talks:**
+
+* Abelianized boundary Dehn twists are often trivial. *[Graduate Student Topology and Geometry Conference 2026](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
+    I discussed my forthcoming work which proves that abelianized boundary Dehn twists are trivial on broad families of manifolds, including many on which the boundary Dehn twists themselves are known to be non-trivial by work of Kronheimer-Mrowka, Jianfeng Lin, Baraglia-Konno, and Tilton.
 
 * [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
     I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology.
