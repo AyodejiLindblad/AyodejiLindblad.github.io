@@ -95,6 +95,9 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 
 **Local talks:**
 
+* We live in the worst dimension. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2026.  
+    I will discuss why manifolds behave so much worse in dimension 4 than they do in any other dimension.
+
 * [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
     I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
     
