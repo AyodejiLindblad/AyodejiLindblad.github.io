@@ -84,6 +84,9 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 
 **Contributed talks:**
 
+* Abelianized boundary Dehn twists are often trivial. *[AMS New England Graduate Student Conference](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
+    I will discuss my forthcoming work which proves that abelianized boundary Dehn twists are trivial on broad families of manifolds, including many on which the boundary Dehn twists themselves are known to be non-trivial by work of [Baraglia-Konno](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.12229) ([see also](https://arxiv.org/abs/2412.14398)), [Kronheimer-Mrowka](https://archive.intlpress.com/site/pub/files/_fulltext/journals/mrl/2020/0027/0006/MRL-2020-0027-0006-a008.pdf), [Jianfeng Lin](https://msp.org/gt/2023/27-5/gt-v27-n5-p07-s.pdf), and [Tilton](https://arxiv.org/abs/2511.16804).
+
 * Abelianized boundary Dehn twists are often trivial. *[Graduate Student Topology and Geometry Conference 2026](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I will discuss my forthcoming work which proves that abelianized boundary Dehn twists are trivial on broad families of manifolds, including many on which the boundary Dehn twists themselves are known to be non-trivial by work of [Baraglia-Konno](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.12229) ([see also](https://arxiv.org/abs/2412.14398)), [Kronheimer-Mrowka](https://archive.intlpress.com/site/pub/files/_fulltext/journals/mrl/2020/0027/0006/MRL-2020-0027-0006-a008.pdf), [Jianfeng Lin](https://msp.org/gt/2023/27-5/gt-v27-n5-p07-s.pdf), and [Tilton](https://arxiv.org/abs/2511.16804).
 
