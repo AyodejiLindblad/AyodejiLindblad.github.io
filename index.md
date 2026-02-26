@@ -96,7 +96,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional Meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) discussed [my paper](https://rdcu.be/eSi5F) of the same name.
 
-**Local talks:**
+**Selected local talks:**
 
 * We live in the worst dimension. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2026.  
     I will discuss why manifolds behave so much worse in dimension 4 than they do in any other dimension.
