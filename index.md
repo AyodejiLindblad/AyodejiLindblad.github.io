@@ -51,7 +51,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
 * [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
     Joint with [Carlos Alvarado](https://alvarado-alvarez.github.io/), supported by [Tang-Kai Lee](https://www.math.columbia.edu/~leetk/). Investigates whether certain classes of perturbations of mean curvature flow translators converge to translators under the flow.
         
-* Boundary Dehn twists are often commutators. *In preparation, to be submitted for publication*, 2026.
+* Boundary Dehn twists as commutators. *In preparation, to be submitted for publication*, 2026.
 
 * Lifting design curves. *In preparation, to be submitted for publication*, 2026.
     
