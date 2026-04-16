@@ -84,10 +84,10 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 **Contributed talks:**
 
 * Boundary Dehn twists are often commutators. *[Graduate Student Topology and Geometry Conference](https://www.gstgc2026.com/)*, 2026.  
-    I will give an overview of [my work of the same name](https://arxiv.org/abs/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that abelianized boundary Dehn twists are often trivial.
+    I will give an overview of [my work of the same name](https://arxiv.org/abs/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
 
 * Boundary Dehn twists are often commutators. *[AMS New England Graduate Student Conference](https://sites.google.com/brown.edu/amsgradconference/home)*, 2026.  
-    I gave an overview of [my work of the same name](https://arxiv.org/abs/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that abelianized boundary Dehn twists are often trivial.
+    I gave an overview of [my work of the same name](https://arxiv.org/abs/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
 
 * [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
     I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology.
