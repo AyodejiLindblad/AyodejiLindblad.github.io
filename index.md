@@ -43,7 +43,7 @@ I'm a third-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [
     Formalizes a construction that builds a spherical $t$\-design by placing a spherical $t$\-design on each projective or Hopf fiber associated to the points of a $\lfloor t/2\rfloor$-design on a quotient projective space or sphere, generalizing work of [König](https://mathscinet.ams.org/mathscinet/article?mr=1797231), [Kuperberg](https://epubs.siam.org/doi/10.1137/040615584), and [Okuda](https://arxiv.org/abs/1506.08414) (who was inspired by work of [Cohn, Conway, Elkies, and Kumar](https://projecteuclid.org/journals/experimental-mathematics/volume-16/issue-3/The-D_4-Root-System-Is-Not-Universally-Optimal/em/1204928532.pdf)).
         
 * [Boundary Dehn twists are often commutators](https://arxiv.org/pdf/2604.13194). *[arXiv:2604.13194](https://arxiv.org/abs/2604.13194), to be submitted for publication*, 2026.  
-    Concretely realizes the boundary Dehn twist as a commutator in the smooth mapping class group rel boundary of all complete intersections, all connected sums thereof, and further broad classes of manifolds, notably showing that boundary Dehn twists known to be non-trivial in the smooth mapping class group rel boundary by work of [Baraglia-Konno](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.12229) ([see also](https://arxiv.org/abs/2412.14398)), [Kronheimer-Mrowka](https://archive.intlpress.com/site/pub/files/_fulltext/journals/mrl/2020/0027/0006/MRL-2020-0027-0006-a008.pdf), [Jianfeng Lin](https://msp.org/gt/2023/27-5/gt-v27-n5-p07-s.pdf), and [Tilton](https://arxiv.org/abs/2511.16804) become trivial after abelianization.
+    Concretely realizes the boundary Dehn twist as a commutator in the smooth mapping class group rel boundary of all complete intersections, all connected sums thereof, and further broad classes of manifolds, notably showing that boundary Dehn twists known to be non-trivial in the smooth mapping class group rel boundary by work of [Baraglia-Konno](https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/topo.12229) ([see also](https://arxiv.org/abs/2412.14398)), [Kronheimer-Mrowka](https://archive.intlpress.com/site/pub/files/_fulltext/journals/mrl/2020/0027/0006/MRL-2020-0027-0006-a008.pdf), [Jianfeng Lin](https://msp.org/gt/2023/27-5/gt-v27-n5-p07-s.pdf), and [Tilton](https://arxiv.org/abs/2511.16804) become trivial after abelianization. This generalizes work of Y. Lin which applied an argument based on the global Torelli theorem and an obstruction of Baraglia-Konno to prove that the abelianized boundary Dehn twist on the punctured $K3$ surface is trivial.
   
 * [Asymptotically optimal $t$\-design curves on $S^3$](research/Asymptotically-optimal-t--design-curves-on-S3.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2025.  
     Solves the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on the 3-sphere.
@@ -79,32 +79,32 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
     I will speak about my research formalizing geometric constructions of geometric $t$-designs as a part of a symposium in which recipients of the MIT Dean of Science Graduate Fellowship were asked to present their work to members of the MIT community.
 
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
-    I gave an overview of my work *[Boundary Dehn twists are often commutators](https://arxiv.org/pdf/2604.13194)*.
+    I gave an overview of the approach presented in my work *[Boundary Dehn twists are often commutators](https://arxiv.org/pdf/2604.13194)* to concretely realizing the boundary Dehn twist as a commutator in the smooth mapping class group rel boundary on broad families of spaces.
 
 **Contributed talks:**
 
 * Boundary Dehn twists are often commutators. *[Graduate Student Topology and Geometry Conference](https://www.gstgc2026.com/)*, 2026.  
-    I will give an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194).
+    I will give an overview of the approach presented in [my work of the same name](https://arxiv.org/pdf/2604.13194) to concretely realizing the boundary Dehn twist as a commutator in the smooth mapping class group rel boundary on broad families of spaces.
 
 * Boundary Dehn twists are often commutators. *[AMS New England Graduate Student Conference](https://sites.google.com/brown.edu/amsgradconference/home)*, 2026.  
-    I gave an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194).
+    I gave an overview of the approach presented in [my work of the same name](https://arxiv.org/pdf/2604.13194) to concretely realizing the boundary Dehn twist as a commutator in the smooth mapping class group rel boundary on broad families of spaces.
 
 * [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
     I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology.
     
 * [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional Meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
-    [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) gave an overview of the constructions of $t$-designs on higher-dimensional spheres from those on lower-dimensional spheres and projective spacaes presented in [my paper](https://rdcu.be/eSi5F) of the same name.
+    [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) gave an overview of constructions of $t$-designs on higher-dimensional spheres from those on lower-dimensional spheres and projective spacaes presented in [my paper of the same name](https://rdcu.be/eSi5F).
 
 **Selected local talks:**
 
 * [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
-    I discussed geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
+    I presented work on geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 2024.  
-    I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and discussed a [refinement due to Manolescu](https://msp.org/gt/2003/7-2/gt-v7-n2-p10-p.pdf) involving finite-dimensional approximations of the Seiberg-Witten map which produces a space whose homotopy groups are the monopole Floer homology groups.
+    I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and of its homotopy refinement (as in [work of Manolescu](https://msp.org/gt/2003/7-2/gt-v7-n2-p10-p.pdf)).
     
 * In case you're curious what your local low-dimensional topologists do all day. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2024.  
-    I provided an introduction to Morse theory and Floer theories.
+    I provided a general introduction to Morse theory and Floer theories.
     
 
 ---
