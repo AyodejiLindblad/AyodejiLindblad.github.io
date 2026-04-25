@@ -92,7 +92,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
     I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology.
     
-* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *AMS Eastern Sectional Meeting [FRACTals](https://www.ams.org/meetings/sectional/2312_program_ss15.html) section*, 2024.  
+* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *[AMS Eastern Sectional Meeting FRACTals section](https://www.ams.org/meetings/sectional/2312_program_ss15.html)*, 2024.  
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) gave an overview of constructions of $t$-designs on higher-dimensional spheres from those on lower-dimensional spheres and projective spacaes presented in [my paper of the same name](https://rdcu.be/eSi5F).
 
 **Selected local talks:**
