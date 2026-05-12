@@ -20,8 +20,8 @@ layout: default
     <a href="#research">Research</a><span class="toc-sep"> | </span>
     <a href="#expository">Expository</a><span class="toc-sep"> | </span>
     <a href="#talks">Talks</a><span class="toc-sep"> | </span>
-    <a href="#organization">Organization</a><span class="toc-sep"> | </span>
-    <a href="#teaching">Teaching</a><!--<span class="toc-sep"> | </span>
+    <a href="#teaching">Teaching</a><span class="toc-sep"> | </span>
+    <a href="#organization">Organization</a><!--<span class="toc-sep"> | </span>
     <a href="#figures">Figures</a>-->
   </span>
 </p>
@@ -106,6 +106,16 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
     
 * In case you're curious what your local low-dimensional topologists do all day. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2024.  
     I provided a general introduction to Morse theory and Floer theories.
+
+
+---
+
+<div id="teaching" class="toc-jump"></div>
+**Teaching:**
+
+
+* 18.XX recitation instructor. *MIT*, 2026.  
+    I will lead a recitation at MIT in Fall 2026.
     
 
 ---
@@ -124,16 +134,6 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
 Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
     A meeting on low-dimensional topology which we organized. Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
-
-
----
-
-<div id="teaching" class="toc-jump"></div>
-**Teaching:**
-
-
-* 18.XX recitation instructor. *MIT*, 2026.  
-    I will lead a recitation at MIT in Fall 2026.
 
 
 ---
