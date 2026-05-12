@@ -132,7 +132,7 @@ Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
 **Teaching:**
 
 
-* 18.XX. *MIT*, 2026.  
+* 18.XX recitation instructor. *MIT*, 2026.  
     I will lead a recitation at MIT in Fall 2026.
 
 
