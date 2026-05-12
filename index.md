@@ -20,9 +20,9 @@ layout: default
     <a href="#research">Research</a><span class="toc-sep"> | </span>
     <a href="#expository">Expository</a><span class="toc-sep"> | </span>
     <a href="#talks">Talks</a><span class="toc-sep"> | </span>
-    <a href="#teaching">Teaching</a><span class="toc-sep"> | </span>
     <a href="#organization">Organization</a><span class="toc-sep"> | </span>
-    <a href="#figures">Figures</a>
+    <a href="#teaching">Teaching</a><span class="toc-sep"> | </span>
+    <!-- <a href="#figures">Figures</a> -->
   </span>
 </p>
 
