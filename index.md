@@ -76,7 +76,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="talks" class="toc-jump"></div>
 **Invited talks:**
 
-* [Geometric design of geometric designs](talks/Geometric-Design-of-Geometric-Designs.pdf). *[Dean of Science Graduate Fellows Symposium](https://sites.mit.edu/scienceaace/dean-of-science-graduate-fellows-symposium/)*, 2026.  
+* [Geometric design of geometric designs](talks/Geometric-design-of-geometric-designs.pdf). *[Dean of Science Graduate Fellows Symposium](https://sites.mit.edu/scienceaace/dean-of-science-graduate-fellows-symposium/)*, 2026.  
     I spoke about my research formalizing geometric constructions of geometric $t$-designs as a part of a symposium in which recipients of the MIT Dean of Science Graduate Fellowship were asked to present their work to members of the MIT community.
 
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
