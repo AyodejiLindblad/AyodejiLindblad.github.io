@@ -115,7 +115,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 
 
 * 18.XX recitation instructor. *MIT*, 2026.  
-    I will lead a recitation at MIT in Fall 2026.
+    I will lead a recitation at MIT for the Fall 2026 semester.
     
 
 ---
