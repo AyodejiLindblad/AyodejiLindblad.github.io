@@ -57,8 +57,6 @@ I'm a rising fourth-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowk
 
 * Lifting design curves. *In preparation, to be submitted for publication*, 2026.
     
-* Harmonic strength related through geometric maps. *In preparation, to be submitted for publication*, 2026.
-
 ---
 
 <div id="expository" class="toc-jump"></div>
