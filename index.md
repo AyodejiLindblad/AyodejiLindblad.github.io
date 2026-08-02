@@ -63,7 +63,7 @@ I'm a rising fourth-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowk
 **Expository:**
 
 * Instanton Floer homology and applications. In *[New Structures in Low-Dimensional Topology](https://link.springer.com/book/9783032134936)*, Bolyai Society Mathematical Studies 1, Springer, Cham, 2026.  
-Joint with [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Nathan Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), [Tomasz Mrowka](https://math.mit.edu/~mrowka/), [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/). These notes, which follow a mini-course presented by John Baldwin and Tomasz Mrowka at the meeting *New Structures in Low-Dimensional Topology* in Budapest, define instanton Floer homology--a powerful 3-manifold invariant--and discuss applications to sutured manifolds and knot theory.
+Joint with [John Baldwin](https://sites.google.com/bc.edu/john-baldwin/home), [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Nathan Geist](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/nathan-geist.html), [Tomasz Mrowka](https://math.mit.edu/~mrowka/), [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home). These notes, which follow a mini-course presented by John Baldwin and Tomasz Mrowka at the meeting *New Structures in Low-Dimensional Topology* in Budapest, define instanton Floer homology--a powerful 3-manifold invariant--and discuss applications to sutured manifolds and knot theory.
 
 * Khovanov skein lasagna modules for the working topologist. *In preparation*, 2026.  
 Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [Gage Martin](https://sites.google.com/view/gagemartin/home), [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). These notes present Khovanov skein lasagna modules and their impacts from the perspective of low-dimensional topology.
@@ -126,15 +126,15 @@ Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
     We will co-organize the MIT Geometry and Topology Seminar for the 2026-2027 academic year.
 
 * The Low-dimensional Cambridge-Organized Student Topology Gathering (the Low COST Gathering). *MIT and Harvard*, 2027.  
-Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
+Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     A meeting on low-dimensional topology which we plan to organize in Fall 2027. Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in speaking at or attending the event and I'll be in contact when it is becoming a reality (though note, as is to be expected with the name, we likely won't have too much funding available for travel or lodging).
 
 * [K3@MIT](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
-Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
+Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     An informal problems session on low-dimensional topology which we plan to organize in Fall 2026 in recognition of the release of [the third Kirby problems list "K3"](https://bookstore.ams.org/surv-295). Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in attending the event and I'll be in contact when it is becoming a reality (though note we likely won't have too much funding available for travel or lodging).
 
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
-Joint with [Ollie Thakar](https://www.math.harvard.edu/people/thakar-ollie/).
+Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     A meeting on low-dimensional topology which we organized. Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
 
 
