@@ -131,8 +131,8 @@ Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar
 
 * [The K3@MIT workshop in low-dimensional topology](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
 Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
-    An informal workshop on low-dimensional topology which we are organizing in Fall 2026 in recognition of the release of [the third Kirby problem list "K3"](https://bookstore.ams.org/surv-295).
-
+    An workshop which will provide a structured forum for PhD students and early-career mathematicians to work together on problems on the recently released [K3 problem list](https://bookstore.ams.org/surv-295) in low-dimensional topology
+    
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
 Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     A meeting on low-dimensional topology which we organized. Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
