@@ -129,7 +129,7 @@ Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
 Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     A meeting on low-dimensional topology which we plan to organize in Fall 2027. Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in speaking at or attending the event and I'll be in contact when it is becoming a reality (though note, as is to be expected with the name, we likely won't have too much funding available for travel or lodging).
 
-* [K3@MIT](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
+* [The K3@MIT workshop in low-dimensional topology](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
 Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     An informal problems session on low-dimensional topology which we plan to organize in Fall 2026 in recognition of the release of [the third Kirby problems list "K3"](https://bookstore.ams.org/surv-295). Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in attending the event and I'll be in contact when it is becoming a reality (though note we likely won't have too much funding available for travel or lodging).
 
