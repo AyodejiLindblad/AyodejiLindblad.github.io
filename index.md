@@ -49,7 +49,7 @@ I'm a rising fourth-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowk
 * [Asymptotically optimal $t$\-design curves on $S^3$](research/Asymptotically-optimal-t--design-curves-on-S^3.pdf). *[arXiv:2408.04044](https://arxiv.org/abs/2408.04044), submitted for publication*, 2024.  
     Solves the problem posed by [Ehler and Gröchenig](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/tdesign-curves-and-mobile-sampling-on-the-sphere/3876FD22A0D8BC17B9F2207F53142466) of proving that there exist asymptotically optimal sequences of $t$\-design curves on the 3-sphere.
     
-* [Asymptotically short generalizations of $t$\-design curves](research/Asymptotically-short-generalizations-of-t--design-curves.pdf). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), submitted for publication*, 2025.  
+* [Asymptotically short generalizations of $t$\-design curves](https://arxiv.org/pdf/2505.03056). *[arXiv:2505.03056](https://arxiv.org/abs/2505.03056), submitted for publication*, 2025.  
     Proves existence of approximate and weighted $t$-design curves which have certain desirable properties and which achieve the asymptotically optimal length of spherical $t$-design curves on the $d$-sphere for all odd $d$ in the approximate setting and all $d$ in the weighted setting.
         
 * [Dynamical stability of translators under mean curvature flow](https://math.mit.edu/research/undergraduate/spur/documents/2022/Alvarado_Linblad.pdf). *[Posted to MIT SPUR website](https://math.mit.edu/research/undergraduate/spur/past-projects.html)*, 2022.  
