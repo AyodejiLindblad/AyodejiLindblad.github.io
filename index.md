@@ -80,9 +80,9 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I gave an overview of my argument (since disseminated in the paper *[Boundary Dehn twists are often commutators](https://arxiv.org/pdf/2604.13194)*) showing that boundary Dehn twists often become trivial after abelianization.
 
-**Contributed talks (\*lightning):**
+**Contributed talks:**
 
-* \*[Boundary Dehn twists are often commutators](talks/Boundary-Dehn-twists-are-often-commutators-(lightning).pdf). *[Graduate Student Topology and Geometry Conference](https://www.gstgc2026.com/)*, 2026.  
+* [Boundary Dehn twists are often commutators (lightning)](talks/Boundary-Dehn-twists-are-often-commutators-(lightning).pdf). *[OIST TSVP Autumn School on Gauge Theory, Topology, and Physics](https://sites.google.com/view/new-frontiers-in-gauge-theory/autumn-school?authuser=0)*, 2026.  
     I gave a lightning-style overview of [my work of the same name](https://arxiv.org/pdf/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
   
 * [Boundary Dehn twists are often commutators](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf). *[Graduate Student Topology and Geometry Conference](https://www.gstgc2026.com/)*, 2026.  
