@@ -22,21 +22,19 @@ The seminar will meet on Mondays from 3:30PM - 4:30PM in room 449 of MIT Buildin
 
 ---
 
-**Titles & Abstracts:**
-
 **September 14th, 2026: [Bob Gompf](https://web.ma.utexas.edu/users/gompf/) - *The universal $\mathbb{R}^4$ and applications*.**  
 * We will discuss the universal $\mathbb{R}^4$ and universal smoothings more generally. This work was inspired by a 1986 paper of Freedman and Taylor but extends well beyond it. Simplifications of the main proof lead to a simpler definition and stronger results. One application is a 4-manifold for which the diffeomorphism types of its smoothings are as hard to classify as countable graphs (allowing infinite valence) up to graph isomorphism (joint with A. Panagiotopoulos). Another is to determine the compactly supported mapping class groups of a large class of smooth, open 4-manifolds (joint with P. Orson and A. Ray).
 
 **September 21st, 2026: [Kyle Hayden](https://sites.google.com/view/kylehayden/home).**  
     
 
-* [Hokuto Konno](https://www.ms.u-tokyo.ac.jp/~konno/eng_index.html). September 28th, 2026.  
+**September 28th, 2026: [Hokuto Konno](https://www.ms.u-tokyo.ac.jp/~konno/eng_index.html).**
     
 
-* [Jiajun Yan](https://sites.google.com/view/jiajunyan/home). October 5th, 2026.  
+**October 5th, 2026: [Jiajun Yan](https://sites.google.com/view/jiajunyan/home).**
     
 
-* No speaker. *Indigenous Peoples' Day*, October 12th, 2026.  
+**October 12th, 2026: No speaker - *Indigenous Peoples' Day*.** 
     
 
 * [Dave Gabai](https://www.math.princeton.edu/people/david-gabai). October 19th, 2026.  
