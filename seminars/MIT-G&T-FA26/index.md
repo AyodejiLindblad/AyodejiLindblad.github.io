@@ -5,6 +5,8 @@ layout: default
 
 {% include mathjax.html %}
 
+---
+
 <div style="text-align: center;">
 <figure style="margin: 0.4;">
 <img src="/figures/ThomSpace.png">
@@ -81,6 +83,6 @@ Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topolog
 
 * [Fall 2021 - Spring 2022](https://sites.google.com/view/anthony-conway/activities/mit-geometry-and-topology-seminar-fall-2021)
     
-    
+---
     
 <br>
