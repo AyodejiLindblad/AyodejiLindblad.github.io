@@ -23,6 +23,8 @@ layout: default
   </h1>
 </div>
 
+---
+
 <figure style="margin:0; width:100%;">
   <img src="/figures/ThomSpace.png"
        style="display:block; width:100%; height:auto; max-width:none; max-height:none;">
