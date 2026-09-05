@@ -75,6 +75,8 @@ Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topolog
 
 * [Boston area topology seminars](https://calendar.google.com/calendar/u/0/embed?src=028i07liimdqltnn999mpdqek4@group.calendar.google.com&ctz=America/New_York&gsessionid=OK)
 
+* [Spring 2026](https://sites.google.com/view/isabellakhan/mit-gt-seminar-spring-2026)
+
 * [Fall 2025](https://www.mit.edu/~gtseminar/)
 
 * [Fall 2024 - Spring 2025](https://www.mit.edu/~gtseminar/2024-2025.html)
