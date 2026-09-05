@@ -5,12 +5,6 @@ layout: default
 
 {% include mathjax.html %}
 
-<div style="text-align: center;">
-<figure style="margin: 0.4;">
-<img src="/resources/imgs/portrait.jpg">
-</figure>
-</div>
-
 <h1 style="text-align:center; margin-top:0; font-size: 2.3rem; line-height: 1.05;">
   MIT Geometry & Topology Seminar Fall 2026
 </h1>
