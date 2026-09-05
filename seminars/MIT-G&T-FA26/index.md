@@ -11,10 +11,15 @@ layout: default
 </figure>
 </div>
 
-
 ---
 
-**MIT Geometry & Topology Seminar.**
+
+<h1 style="text-align:center; margin-top:0; font-size: 1.3rem; line-height: 1.05;">
+  The MIT Geometry & Topology Seminar
+</h1>
+
+
+---
 
 
 Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topology Seminar, organized by [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584) and [Ayodeji Lindblad](https://low-dim.top). The seminar will meet on Mondays from 3:30PM - 4:30PM in room 449 of MIT Building 2.
