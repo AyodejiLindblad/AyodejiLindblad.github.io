@@ -12,7 +12,7 @@ layout: default
 </div>
 
 <h1 style="text-align:center; margin-top:0; font-size: 2.3rem; line-height: 1.05;">
-  MIT Geometry & Topology Seminar Fall 2026
+  MIT Geometry & Topology Seminar
 </h1>
 
 
