@@ -31,7 +31,7 @@ layout: default
 
 **Welcome to my website.**
 
-I'm a rising fourth-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology (especially diffeomorphisms and gauge theory in dimension 4) and discrete geometry. My research is supported by the [MIT Dean of Science Fellowship](https://science.mit.edu/about/awards/deans-fellowship-program/). Previously, I graduated from MIT with a BS in mathematics. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my [CV at this link](Ayodeji-Lindblad-CV.pdf).
+I'm a rising fourth-year PhD student of [Tom Mrowka](https://math.mit.edu/~mrowka/) at [MIT](https://math.mit.edu/directory/profile.html?pid=2594) with interests in low-dimensional topology (especially diffeomorphisms and gauge theory in dimension 4) and discrete geometry. My research has been supported by the [MIT Dean of Science Fellowship](https://science.mit.edu/about/awards/deans-fellowship-program/). Previously, I graduated from MIT with a BS in mathematics. You can reach me at [my_first_name@mit.edu](mailto:my_first_name@mit.edu) and can find my [CV at this link](Ayodeji-Lindblad-CV.pdf).
 
 
 ---
