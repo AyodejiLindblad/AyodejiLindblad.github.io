@@ -127,9 +127,9 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="organization" class="toc-jump"></div>
 **Organization:**
 
-* [The MIT Geometry and Topology Seminar](/seminars/MIT-G&T-FA26/). *MIT*, 2026-2027.  
+* [The MIT Geometry & Topology Seminar](/seminars/MIT-G&T-FA26/). *MIT*, 2026-2027.  
 Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
-    We will co-organize the MIT Geometry and Topology Seminar for the 2026-2027 academic year.
+    We will co-organize the MIT Geometry & Topology Seminar for the 2026-2027 academic year.
 
 * The Low-dimensional Cambridge-Organized Student Topology Gathering (the Low COST Gathering). *MIT and Harvard*, 2027.  
 Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
