@@ -6,10 +6,7 @@ layout: default
 {% include mathjax.html %}
 
 
-<figure style="margin:0; width:100%;">
-  <img src="/figures/ThomSpace.png"
-       style="display:block; width:100%; height:auto; max-width:none; max-height:none;">
-</figure>
+
 
 ---
 
@@ -25,6 +22,11 @@ layout: default
     The MIT Geometry &amp; Topology Seminar, Fall 2026
   </h1>
 </div>
+
+<figure style="margin:0; width:100%;">
+  <img src="/figures/ThomSpace.png"
+       style="display:block; width:100%; height:auto; max-width:none; max-height:none;">
+</figure>
 
 ---
 
