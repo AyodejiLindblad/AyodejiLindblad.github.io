@@ -40,7 +40,8 @@ Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topolog
 
 **September 14.** [Bob Gompf](https://web.ma.utexas.edu/users/gompf/) - *The universal $\mathbb{R}^4$ and applications*.
 
-* We will discuss the universal $\mathbb{R}^4$ and universal smoothings more generally. This work was inspired by a 1986 paper of Freedman and Taylor but extends well beyond it. Simplifications of the main proof lead to a simpler definition and stronger results. One application is a 4-manifold for which the diffeomorphism types of its smoothings are as hard to classify as countable graphs (allowing infinite valence) up to graph isomorphism (joint with A. Panagiotopoulos). Another is to determine the compactly supported mapping class groups of a large class of smooth, open 4-manifolds (joint with P. Orson and A. Ray).
+<p style="margin-left: 2em;">
+We will discuss the universal $\mathbb{R}^4$ and universal smoothings more generally. This work was inspired by a 1986 paper of Freedman and Taylor but extends well beyond it. Simplifications of the main proof lead to a simpler definition and stronger results. One application is a 4-manifold for which the diffeomorphism types of its smoothings are as hard to classify as countable graphs (allowing infinite valence) up to graph isomorphism (joint with A. Panagiotopoulos). Another is to determine the compactly supported mapping class groups of a large class of smooth, open 4-manifolds (joint with P. Orson and A. Ray).</p>
 
 **September 21.** [Kyle Hayden](https://sites.google.com/view/kylehayden/home). 
     
