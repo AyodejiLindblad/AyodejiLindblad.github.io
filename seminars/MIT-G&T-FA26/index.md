@@ -34,7 +34,7 @@ The seminar will meet on Mondays from 3:30PM - 4:30PM in room 449 of MIT Buildin
 **October 5, 2026.** [Jiajun Yan](https://sites.google.com/view/jiajunyan/home).
     
 
-**October 12, 2026.** No speaker - *Indigenous Peoples' Day*.
+**October 12, 2026.** No speaker, *Indigenous Peoples' Day*.
     
 
 **October 19, 2026.** [Dave Gabai](https://www.math.princeton.edu/people/david-gabai).
@@ -49,10 +49,10 @@ The seminar will meet on Mondays from 3:30PM - 4:30PM in room 449 of MIT Buildin
 **November 9, 2026.** [Richard Bamler](https://rbamler.github.io/).
     
 
-**November 16, 2026.** No speaker - *Yet*. 
+**November 16, 2026.** No speaker, *Yet*. 
     
 
-**November 23, 2026.** No speaker - *Thanksgiving week*.
+**November 23, 2026.** No speaker, *Thanksgiving week*.
     
 
 **November 30, 2026.** [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). 
