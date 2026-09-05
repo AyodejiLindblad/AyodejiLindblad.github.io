@@ -5,17 +5,17 @@ layout: default
 
 {% include mathjax.html %}
 
----
-
-<h1 style="text-align:center; margin-top:0; font-size: 2.3rem; line-height: 1.05;">
-  The MIT Geometry & Topology Seminar
-</h1>
-
 <div style="text-align: center;">
 <figure style="margin: 0.4;">
 <img src="/figures/ThomSpace.png">
 </figure>
 </div>
+
+---
+
+<h1 style="text-align:center; margin-top:0; font-size: 2.3rem; line-height: 1.05;">
+  The MIT Geometry & Topology Seminar
+</h1>
 
 
 ---
