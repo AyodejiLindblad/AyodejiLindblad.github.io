@@ -127,7 +127,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="organization" class="toc-jump"></div>
 **Organization:**
 
-* [The MIT Geometry and Topology Seminar](https://www.mit.edu/~gtseminar/). *MIT*, 2026-2027.  
+* [The MIT Geometry and Topology Seminar](/seminars/MIT-G&T-FA26). *MIT*, 2026-2027.  
 Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
     We will co-organize the MIT Geometry and Topology Seminar for the 2026-2027 academic year.
 
