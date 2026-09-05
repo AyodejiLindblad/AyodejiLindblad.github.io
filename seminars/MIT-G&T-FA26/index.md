@@ -29,9 +29,7 @@ Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topolog
 
 **September 14.** [Bob Gompf](https://web.ma.utexas.edu/users/gompf/) - *The universal $\mathbb{R}^4$ and applications*.
 
-<p style="margin-left: 2em;">
-We will discuss the universal $\mathbb{R}^4$ and universal smoothings more generally. This work was inspired by a 1986 paper of Freedman and Taylor but extends well beyond it. Simplifications of the main proof lead to a simpler definition and stronger results. One application is a 4-manifold for which the diffeomorphism types of its smoothings are as hard to classify as countable graphs (allowing infinite valence) up to graph isomorphism (joint with A. Panagiotopoulos). Another is to determine the compactly supported mapping class groups of a large class of smooth, open 4-manifolds (joint with P. Orson and A. Ray).
-</p>
+* We will discuss the universal $\mathbb{R}^4$ and universal smoothings more generally. This work was inspired by a 1986 paper of Freedman and Taylor but extends well beyond it. Simplifications of the main proof lead to a simpler definition and stronger results. One application is a 4-manifold for which the diffeomorphism types of its smoothings are as hard to classify as countable graphs (allowing infinite valence) up to graph isomorphism (joint with A. Panagiotopoulos). Another is to determine the compactly supported mapping class groups of a large class of smooth, open 4-manifolds (joint with P. Orson and A. Ray).
 
 **September 21.** [Kyle Hayden](https://sites.google.com/view/kylehayden/home). 
     
@@ -76,17 +74,18 @@ We will discuss the universal $\mathbb{R}^4$ and universal smoothings more gener
 
 **Other seminars & past years:**
 
-[Boston area topology seminars](https://calendar.google.com/calendar/u/0/embed?src=028i07liimdqltnn999mpdqek4@group.calendar.google.com&ctz=America/New_York&gsessionid=OK)
+* [Boston area topology seminars](https://calendar.google.com/calendar/u/0/embed?src=028i07liimdqltnn999mpdqek4@group.calendar.google.com&ctz=America/New_York&gsessionid=OK)
 
-[Spring 2026](https://sites.google.com/view/isabellakhan/mit-gt-seminar-spring-2026)
 
-[Fall 2025](https://www.mit.edu/~gtseminar/)
+* [Spring 2026](https://sites.google.com/view/isabellakhan/mit-gt-seminar-spring-2026)
 
-[Fall 2024 - Spring 2025](https://www.mit.edu/~gtseminar/2024-2025.html)
+* [Fall 2025](https://www.mit.edu/~gtseminar/)
 
-[Spring 2023](https://www.mit.edu/~gtseminar/spring2023.html)
+* [Fall 2024 - Spring 2025](https://www.mit.edu/~gtseminar/2024-2025.html)
 
-[Fall 2021 - Spring 2022](https://sites.google.com/view/anthony-conway/activities/mit-geometry-and-topology-seminar-fall-2021)
+* [Spring 2023](https://www.mit.edu/~gtseminar/spring2023.html)
+
+* [Fall 2021 - Spring 2022](https://sites.google.com/view/anthony-conway/activities/mit-geometry-and-topology-seminar-fall-2021)
     
 ---
     
