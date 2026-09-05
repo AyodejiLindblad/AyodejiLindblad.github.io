@@ -5,17 +5,28 @@ layout: default
 
 {% include mathjax.html %}
 
-<div style="text-align: center;">
-<figure style="margin: 0.4;">
-<img src="/figures/ThomSpace.png">
+
+<figure style="margin: 0; width: 100%;">
+  <img
+    src="/figures/ThomSpace.png"
+    alt="Thom space construction"
+    style="display: block; width: 100%; height: auto;"
+  >
 </figure>
-</div>
 
 ---
 
 
-<h1 style="text-align:center; margin-top:0; font-size: 2rem; line-height: 1.05;">
-  The MIT Geometry & Topology Seminar, Fall 2026
+<h1 style="
+  width: 100%;
+  margin: 0;
+  font-size: clamp(0.65rem, 3.2vw, 2rem);
+  line-height: 1.05;
+  white-space: nowrap;
+  text-align: justify;
+  text-align-last: justify;
+">
+  The MIT Geometry &amp; Topology Seminar, Fall 2026
 </h1>
 
 
