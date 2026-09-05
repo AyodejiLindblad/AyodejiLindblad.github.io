@@ -6,9 +6,9 @@ layout: default
 {% include mathjax.html %}
 
 
-<figure style="margin: 0; width: 100%;">
+<figure style="margin:0; width:100%;">
   <img src="/figures/ThomSpace.png"
-       style="display:block; width:100%; max-width:none; height:auto;">
+       style="display:block; width:100%; height:auto; max-width:none; max-height:none;">
 </figure>
 
 ---
@@ -18,7 +18,7 @@ layout: default
   <h1 style="
     margin:0;
     text-align:center;
-    font-size:3.9cqi;
+    font-size:4.4cqi;
     line-height:1.05;
     white-space:nowrap;
   ">
