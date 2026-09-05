@@ -37,31 +37,31 @@ The seminar will meet on Mondays from 3:30PM - 4:30PM in room 449 of MIT Buildin
 **October 12th, 2026: No speaker - *Indigenous Peoples' Day*.** 
     
 
-* [Dave Gabai](https://www.math.princeton.edu/people/david-gabai). October 19th, 2026.  
+**October 19th, 2026: [Dave Gabai](https://www.math.princeton.edu/people/david-gabai).**  
     
 
-* [Susan Hermiller](https://shermiller.github.io/Susan_Hermiller/). October 26th, 2026.  
+**October 26th, 2026: [Susan Hermiller](https://shermiller.github.io/Susan_Hermiller/).**  
     
 
-* [Gheehyun Nahm](https://web.math.princeton.edu/~gn4470/). November 2nd, 2026.  
+**November 2nd, 2026: [Gheehyun Nahm](https://web.math.princeton.edu/~gn4470/).** 
     
 
-* [Richard Bamler](https://rbamler.github.io/). November 9th, 2026.  
+**November 9th, 2026: [Richard Bamler](https://rbamler.github.io/).**
     
 
-* No speaker. *Yet*, November 16th, 2026.  
+**November 16th, 2026: No speaker - *Yet*.**  
     
 
-* No speaker. *Thanksgiving week*, November 23rd, 2026.  
+**November 23rd, 2026: No speaker - *Thanksgiving week*.**
     
 
-* [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html). November 30th, 2026.  
+**November 30th, 2026: [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html).**  
     
     
-* [Chris Scaduto](https://www.math.miami.edu/~cscaduto/index.html). December 7th, 2026.  
+**December 7th, 2026: [Chris Scaduto](https://www.math.miami.edu/~cscaduto/index.html).**  
     
     
-* [Dave Auckly](https://www.math.ksu.edu/~dav/). December 14th, 2026.  
+**December 14th, 2026: [Dave Auckly](https://www.math.ksu.edu/~dav/).**
 
 
 ---
