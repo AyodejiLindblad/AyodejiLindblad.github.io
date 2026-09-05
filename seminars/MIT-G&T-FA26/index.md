@@ -7,34 +7,24 @@ layout: default
 
 
 <figure style="margin: 0; width: 100%;">
-  <img
-    src="/figures/ThomSpace.png"
-    alt="Thom space construction"
-    style="
-      display: block;
-      width: 100% !important;
-      max-width: none !important;
-      height: auto;
-      margin: 0;
-    "
-  >
+  <img src="/figures/ThomSpace.png"
+       style="display:block; width:100%; max-width:none; height:auto;">
 </figure>
 
 ---
 
 
-<h1 style="
-  width: 100%;
-  margin: 0;
-  font-size: clamp(0.65rem, 3.2vw, 2rem);
-  line-height: 1.05;
-  white-space: nowrap;
-  text-align: justify;
-  text-align-last: justify;
-">
-  The MIT Geometry &amp; Topology Seminar, Fall 2026
-</h1>
-
+<div style="width:100%; container-type:inline-size;">
+  <h1 style="
+    margin:0;
+    text-align:center;
+    font-size:3.9cqi;
+    line-height:1.05;
+    white-space:nowrap;
+  ">
+    The MIT Geometry &amp; Topology Seminar, Fall 2026
+  </h1>
+</div>
 
 ---
 
