@@ -10,7 +10,13 @@ layout: default
   <img
     src="/figures/ThomSpace.png"
     alt="Thom space construction"
-    style="display: block; width: 100%; height: auto;"
+    style="
+      display: block;
+      width: 100% !important;
+      max-width: none !important;
+      height: auto;
+      margin: 0;
+    "
   >
 </figure>
 
