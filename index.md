@@ -119,7 +119,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 
 
 * 18.03 recitation instructor. *MIT*, 2026.  
-    I am leading a recitation for the MIT course 18.03 (differential equations) during the Fall 2026 semester.
+    I am leading a recitation for 18.03 (differential equations) at MIT during the Fall 2026 semester.
     
 
 ---
