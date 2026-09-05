@@ -26,7 +26,7 @@ layout: default
 ---
 
 <figure style="margin:0; width:100%;">
-  <img src="/figures/Thom-Space.png"
+  <img src="/figures/Thom-space.png"
        style="display:block; width:100%; height:auto; max-width:none; max-height:none;">
 </figure>
 
