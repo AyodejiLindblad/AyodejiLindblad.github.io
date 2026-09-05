@@ -11,8 +11,6 @@ layout: default
 </figure>
 </div>
 
----
-
 
 ---
 
