@@ -75,11 +75,11 @@ Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topolog
 
 * [Fall 2025](https://www.mit.edu/~gtseminar/)
 
-* [2024-2025](https://www.mit.edu/~gtseminar/2024-2025.html)
+* [Fall 2024 - Spring 2025](https://www.mit.edu/~gtseminar/2024-2025.html)
 
 * [Spring 2023](https://www.mit.edu/~gtseminar/spring2023.html)
 
-* [2021-2022](https://sites.google.com/view/anthony-conway/activities/mit-geometry-and-topology-seminar-fall-2021)
+* [Fall 2021 - Spring 2022](https://sites.google.com/view/anthony-conway/activities/mit-geometry-and-topology-seminar-fall-2021)
     
     
     
