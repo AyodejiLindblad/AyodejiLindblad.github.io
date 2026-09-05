@@ -65,7 +65,17 @@ This is the website for the Fall 2026 iteration of the MIT Geometry & Topology S
 
 ---
 
-**Past years:**
+**Other seminars & past years:**
+
+* [Boston area topology seminars](https://calendar.google.com/calendar/u/0/embed?src=028i07liimdqltnn999mpdqek4@group.calendar.google.com&ctz=America/New_York&gsessionid=OK)
+
+* [Fall 2025](https://www.mit.edu/~gtseminar/)
+
+* [2024-2025](https://www.mit.edu/~gtseminar/2024-2025.html)
+
+* [Spring 2023](https://www.mit.edu/~gtseminar/spring2023.html)
+
+* [2021-2022](https://sites.google.com/view/anthony-conway/activities/mit-geometry-and-topology-seminar-fall-2021)
     
     
     
