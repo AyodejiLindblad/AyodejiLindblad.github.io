@@ -7,7 +7,7 @@ layout: default
 
 <div style="text-align: center;">
 <figure style="margin: 0.4;">
-<img src="/seminars/MIT-G&T-FA26/Seminar icon.jpeg">
+<img src="/figures/ThomSpace.png">
 </figure>
 </div>
 
