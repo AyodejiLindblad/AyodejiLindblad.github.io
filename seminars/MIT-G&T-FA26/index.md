@@ -6,7 +6,7 @@ layout: default
 {% include mathjax.html %}
 
 <div style="text-align: center;">
-<figure style="margin: 0.4;">
+<figure style="margin: 0;">
 <img src="/figures/ThomSpace.png">
 </figure>
 </div>
