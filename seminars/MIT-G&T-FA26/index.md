@@ -46,7 +46,11 @@ We will discuss the universal $\mathbb{R}^4$ and universal smoothings more gener
 **September 21.** [Kyle Hayden](https://sites.google.com/view/kylehayden/home). 
     
 
-**September 28.** [Hokuto Konno](https://www.ms.u-tokyo.ac.jp/~konno/eng_index.html).
+**September 28.** [Hokuto Konno](https://www.ms.u-tokyo.ac.jp/~konno/eng_index.html) - *Families 10/8 revisited*.
+
+<p style="margin-left: 2em;">
+Furuta's 10/8 inequality is a milestone in the applications of Seiberg–Witten theory to 4-dimensional topology, giving a strong constraint on the intersection forms of smooth spin 4-manifolds. A families version of the 10/8 theorem was considered by Baraglia in 2019, but applications of this families version have not yet been extensively explored. We consider a refinement of Baraglia's families 10/8 theorem and investigate what it tells us about the topology of families of 4-manifolds. This is joint work in progress with Yosuke Morita.
+</p>
     
 
 **October 5.** [Jiajun Yan](https://sites.google.com/view/jiajunyan/home).
