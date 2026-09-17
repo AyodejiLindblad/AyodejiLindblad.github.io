@@ -332,7 +332,7 @@ Coming soon!
 
 ---
 
-This page has been loaded <span id="site-total-number">—</span> total times since its creation at the end of 2025.
+This website (including its sub-pages, I think) has been loaded <span id="site-total-number">—</span> total times since its creation at the end of 2025.
 
 <script>
   fetch('https://ayodejilindblad.goatcounter.com/counter/TOTAL.json')
