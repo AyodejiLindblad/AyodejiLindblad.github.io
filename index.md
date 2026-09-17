@@ -5,8 +5,6 @@ layout: default
 
 {% include mathjax.html %}
 
----
-
 <div style="text-align: center;">
 <figure style="margin: 0.4;">
 <img src="/resources/imgs/portrait.jpg">
