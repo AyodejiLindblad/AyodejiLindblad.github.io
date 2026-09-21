@@ -33,7 +33,7 @@ layout: default
 ---
 
 
-Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topology Seminar, organized by [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584) and [Ayodeji Lindblad](https://low-dim.top). The seminar meets on Mondays from 3:30PM - 4:30PM (50 minutes + questions) in room 449 of [MIT Building 2](https://maps.app.goo.gl/7qUtncvjbaUnE5SH9?g_st=ic). You can use [this link](https://calendar.google.com/calendar/u/0?cid=NGI4MGVlYzQ4MjI4YWU1NTAxY2NhNWYxZTE0N2M5ZGRlNTI4MTAxMzNkOTQyNDNkZDBmMTE0MDNiMjEzNTU5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to add all seminar events to your Google Calendar.
+Welcome to the website for the Fall 2026 iteration of the MIT Geometry & Topology Seminar, organized by [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584), [Ayodeji Lindblad](https://low-dim.top), and [Tom Mrowka](https://math.mit.edu/~mrowka/). The seminar meets on Mondays from 3:30PM - 4:30PM (50 minutes + questions) in room 449 of [MIT Building 2](https://maps.app.goo.gl/7qUtncvjbaUnE5SH9?g_st=ic). You can use [this link](https://calendar.google.com/calendar/u/0?cid=NGI4MGVlYzQ4MjI4YWU1NTAxY2NhNWYxZTE0N2M5ZGRlNTI4MTAxMzNkOTQyNDNkZDBmMTE0MDNiMjEzNTU5NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to add all seminar events to your Google Calendar.
 
 
 ---
