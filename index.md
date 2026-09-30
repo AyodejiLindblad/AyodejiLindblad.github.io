@@ -135,9 +135,9 @@ Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
 Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     A meeting on low-dimensional topology which we plan to organize in Fall 2027. Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in speaking at or attending the event and I'll be in contact when it is becoming a reality (though note, as is to be expected with the name, we likely won't have too much funding available for travel or lodging).
 
-* [The K3@MIT workshop in low-dimensional topology](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
+* [The K3@MIT gathering in low-dimensional topology](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
 Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
-    A workshop which will provide a structured forum for PhD students and early-career mathematicians to work together on problems on the recently released [K3 problem list in low-dimensional topology](https://bookstore.ams.org/surv-295).
+    A meeting which will provide a structured forum for PhD students and early-career mathematicians to work together on problems on the recently released [K3 problem list in low-dimensional topology](https://bookstore.ams.org/surv-295).
     
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
 Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
