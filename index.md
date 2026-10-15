@@ -77,32 +77,35 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * Boundary Dehn twists are often commutators. *[Stanford topology seminar](https://mathematics.stanford.edu/events/topology)*, 2026.  
     I will give an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
   
-* [Boundary Dehn twists are often commutators](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf). *[AMS Special Session on Geometric and Analytic Aspects of Gauge Theory](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61828)*, 2026. 
+* Boundary Dehn twists are often commutators. *[AMS Special Session on Geometric and Analytic Aspects of Gauge Theory](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61828)*, 2026.
+    Slides from the talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf).
 
-* [Geometric design of geometric designs](talks/Geometric-design-of-geometric-designs.pdf). *Dean of Science Graduate Fellows Symposium*, 2026.  
-    I spoke about my research formalizing geometric constructions of geometric $t$-designs as a part of a symposium in which recipients of the MIT Dean of Science Graduate Fellowship were asked to present their work to members of the MIT community.
+* Geometric design of geometric designs. *Dean of Science Graduate Fellows Symposium*, 2026.  
+    I spoke about my research formalizing geometric constructions of geometric $t$-designs as a part of a symposium in which recipients of the MIT Dean of Science Graduate Fellowship were asked to present their work to members of the MIT community. Slides from the talk can be found [at this link](talks/Geometric-design-of-geometric-designs.pdf).
 
 * Boundary Dehn twists after abelianization. *[London Low-Dimensional Topology Seminar](https://sites.google.com/view/londonlowdimensionaltopology)*, 2026.  
     I gave an overview of my argument (since disseminated in the paper *[Boundary Dehn twists are often commutators](https://arxiv.org/pdf/2604.13194)*) showing that boundary Dehn twists often become trivial after abelianization.
 
 **Contributed talks:**
 
-* [Boundary Dehn twists are often commutators (lightning)](talks/Boundary-Dehn-twists-are-often-commutators-(lightning).pdf). *[OIST TSVP Autumn School on Gauge Theory, Topology, and Physics](https://sites.google.com/view/new-frontiers-in-gauge-theory/autumn-school?authuser=0)*, 2026.  
+* Boundary Dehn twists are often commutators (lightning). *[OIST TSVP Autumn School on Gauge Theory, Topology, and Physics](https://sites.google.com/view/new-frontiers-in-gauge-theory/autumn-school?authuser=0)*, 2026.
+    Slides from the lightning talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(lightning).pdf).
   
 * Boundary Dehn twists are often commutators. *[Graduate Student Topology and Geometry Conference](https://www.gstgc2026.com/)*, 2026.  
 
-* [Boundary Dehn twists are often commutators](talks/Boundary-Dehn-twists-are-often-commutators-(general-audience).pdf). *[AMS New England Graduate Student Conference](https://sites.google.com/brown.edu/amsgradconference/home)*, 2026.  
+* Boundary Dehn twists are often commutators. *[AMS New England Graduate Student Conference](https://sites.google.com/brown.edu/amsgradconference/home)*, 2026.
+    My (rough) notes for the talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(general-audience).pdf).
 
-* [Skein lasagna modules and handle attachments](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home)*, 2026.  
-    I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology.
+* Skein lasagna modules and handle attachments*, 2026.  
+    I discussed work of [Manolescu and Neithalath](https://www.degruyterbrill.com/document/doi/10.1515/crelle-2022-0021/html?lang=en&srsltid=AfmBOoqxU5Qjqk2STSb85QQrpKWQh0vum4-dj8cIoxs9kUAX-qHu2Zjn) describing how 4- and 3-handle attachments respectively don't change and don't enlargen the skein lasagna module of a 4-manifold and establishing an isomorphism between the skein lasagna module of a 2-handlebody and cabled Khovanov-Rozansky homology. My (rough) notes for the talk can be found [at this link](talks/Skein-lasagna-modules-and-handle-attachments.pdf). *[Scottish Talbot On Algebra and Topology](https://sites.google.com/view/stoat-workshop/home).
     
-* [Designs related through projective and Hopf maps](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013). *[AMS Special Session on Fresh Researchers in Algebra, Combinatorics, and Topology](https://www.ams.org/meetings/sectional/2312_program_ss15.html)*, 2024.  
+* Designs related through projective and Hopf maps. *[AMS Special Session on Fresh Researchers in Algebra, Combinatorics, and Topology](https://meetings.ams.org/math/spring2024e/meetingapp.cgi/Paper/34013)*, 2024.  
     [I](https://www.instagram.com/p/C5qjPnHsUVS/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D&img_index=2) gave an overview of constructions of $t$-designs on higher-dimensional spheres from those on lower-dimensional spheres and projective spacaes presented in [my paper of the same name](https://rdcu.be/eSi5F).
 
 **Selected local talks:**
 
-* [Geometrically designing geometric designs](/talks/Geometrically-designing-geometric-designs.jpg). *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
-    I presented work on geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf).
+* Geometrically designing geometric designs. *[MIT PuMaGraSS](https://math.mit.edu/pumagrass/)*, 2025.  
+    I presented work on geometric constructions of [spherical $t$\-designs](https://rdcu.be/eSi5F) and [$t$\-design curves](research/Asymptotically-optimal-t--design-curves-on-S3.pdf). The talk abstract can be found [at this link](/talks/Geometrically-designing-geometric-designs.jpg).
     
 * Monopole Floer homology and a refinement of Manolescu. *[MIT Juvitop](https://math.mit.edu/juvitop/)*, 2024.  
     I gave an overview of the construction of monopole Floer homology (as in Ch. 22 of [Tom and Peter's book](https://www.cambridge.org/core/books/monopoles-and-threemanifolds/24DFD24BB25BDDCFE28810998F5B6242)) and of its homotopy refinement (as in [work of Manolescu](https://msp.org/gt/2003/7-2/gt-v7-n2-p10-p.pdf)).
