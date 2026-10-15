@@ -92,6 +92,7 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
     Slides from the lightning talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(lightning).pdf).
   
 * Boundary Dehn twists are often commutators. *[Graduate Student Topology and Geometry Conference](https://www.gstgc2026.com/)*, 2026.  
+    Slides from the talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf).
 
 * Boundary Dehn twists are often commutators. *[AMS New England Graduate Student Conference](https://sites.google.com/brown.edu/amsgradconference/home)*, 2026.  
     My (rough) notes for the talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(general-audience).pdf).
