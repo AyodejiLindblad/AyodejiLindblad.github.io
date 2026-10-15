@@ -72,10 +72,10 @@ Furuta's 10/8 inequality is a milestone in the applications of Seiberg–Witten 
 **November 2.** [Gheehyun Nahm](https://web.math.princeton.edu/~gn4470/), Princeton University.
     
 
-**November 9.** [Richard Bamler](https://rbamler.github.io/) University of California Berkeley.
+**November 9.** [Richard Bamler](https://rbamler.github.io/), University of California Berkeley.
     
 
-**November 16.** No speaker. 
+**November 16.** [Liam Watson](https://personal.math.ubc.ca/~liam/), Universiry of British Columbia.
     
 
 **November 23.** No speaker - *Thanksgiving week*.
