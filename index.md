@@ -74,8 +74,11 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="talks" class="toc-jump"></div>
 **Invited talks:**
   
-* [Boundary Dehn twists are often commutators](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf). *[AMS Special Session on Geometric and Analytic Aspects of Gauge Theory](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61828)*, 2026.  
+* Boundary Dehn twists are often commutators. *[Stanford topology seminar](https://mathematics.stanford.edu/events/topology)*, 2026.  
     I will give an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
+  
+* [Boundary Dehn twists are often commutators](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf). *[AMS Special Session on Geometric and Analytic Aspects of Gauge Theory](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61828)*, 2026.  
+    I gave an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
 
 * [Geometric design of geometric designs](talks/Geometric-design-of-geometric-designs.pdf). *Dean of Science Graduate Fellows Symposium*, 2026.  
     I spoke about my research formalizing geometric constructions of geometric $t$-designs as a part of a symposium in which recipients of the MIT Dean of Science Graduate Fellowship were asked to present their work to members of the MIT community.
@@ -130,18 +133,18 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * [The MIT Geometry & Topology Seminar](/seminars/MIT-G&T-FA26/). *MIT*, 2026-2027.  
 Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
     We will co-organize the MIT Geometry & Topology Seminar for the 2026-2027 academic year.
-
-* The Low-dimensional Cambridge-Organized Student Topology Gathering (the Low COST Gathering). *MIT and Harvard*, 2027.  
-Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
-    A meeting on low-dimensional topology which we plan to organize in Fall 2027. Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in speaking at or attending the event and I'll be in contact when it is becoming a reality (though note, as is to be expected with the name, we likely won't have too much funding available for travel or lodging).
-
+  
 * [The K3@MIT gathering in low-dimensional topology](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
 Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
-    A meeting which will provide a structured forum for PhD students and early-career mathematicians to work together on problems on the recently released [K3 problem list in low-dimensional topology](https://bookstore.ams.org/surv-295).
+    A meeting which provided a structured forum for about 40 PhD students and early-career mathematicians to work together on problems on the recently released [K3 problem list in low-dimensional topology](https://bookstore.ams.org/surv-295).
     
 * [The Low-dimensional Princeton-Cambridge Exchange Gathering (the Low PriCE Gathering)](https://sites.google.com/view/ayodeji-lowpricegathering/home). *MIT and Harvard*, 2025.  
 Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
     A meeting on low-dimensional topology which we organized. Abstracts from the event can be found [here](organization/Low-PriCE-Abstracts.pdf).
+
+* The Low-dimensional Cambridge-Organized Student Topology Gathering (the Low COST Gathering). *MIT and Harvard*, 2028.  
+Joint with [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
+    A meeting on low-dimensional topology which we plan to organize in Spring 2028. Please feel free to [e-mail me](mailto:my_first_name@mit.edu) if you'd be interested in speaking at or attending the event and I'll be in contact when it is becoming a reality (though note, as is to be expected with the name, we likely won't have too much funding available for travel or lodging).
 
 
 ---
