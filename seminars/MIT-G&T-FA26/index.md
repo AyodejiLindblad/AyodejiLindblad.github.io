@@ -70,7 +70,7 @@ In this talk, we will present an exposition of the McKay correspondence, in part
 **October 19.** [Dave Gabai](https://www.math.princeton.edu/people/david-gabai), Princeton University - *Loops of multi-spheres in $\#_k S^2\times S^2$ and pseudo-isotopy*.
 
 <p style="margin-left: 2em;">
-We discuss how a pseudo-isotopy of $S^4$ induces for some k, a loop of k embedded pairwise disjoint 2-spheres in $\#_k S^2\times S^2$ where the i'th 2-sphere is based at the i'th pt $\times S^2$ and how a loop of spheres induces a pseudo-isotopy. We define a non-trivial invariant with values in $\mathbb{Z}_2$ which vanishes on loops homotopic to ones having geometrically dual spheres.  Joint work with David Gay and Daniel Hartman.
+We discuss how a pseudo-isotopy of $S^4$ induces for some k, a loop of k embedded pairwise disjoint 2-spheres in $\#_k S^2\times S^2$ where the ith 2-sphere is based at the ith $\text{pt}\times S^2$ and how a loop of spheres induces a pseudo-isotopy. We define a non-trivial invariant with values in $\mathbb{Z}_2$ which vanishes on loops homotopic to ones having geometrically dual spheres.  Joint work with David Gay and Daniel Hartman.
 </p>
     
 
