@@ -57,16 +57,28 @@ Furuta's 10/8 inequality is a milestone in the applications of Seiberg–Witten 
 </p>
     
 
-**October 5.** [Jiajun Yan](https://sites.google.com/view/jiajunyan/home), Rice University.
+**October 5.** [Jiajun Yan](https://sites.google.com/view/jiajunyan/home), Rice University - *Toward a dynamical interpretation of the McKay correspondence via gauge theory*.
+
+<p style="margin-left: 2em;">
+In this talk, we will present an exposition of the McKay correspondence, in particular, its various proofs and interpretations using different tools. We will then propose a dynamical way to think about this classical result inspired by Morse theory and gauge theory. Time permitting, we will explain in detail how this approach works in the cyclic cases of the McKay correspondence.
+</p>
     
 
 **October 12.** No speaker - *Indigenous Peoples' Day*.
     
 
-**October 19.** [Dave Gabai](https://www.math.princeton.edu/people/david-gabai), Princeton University.
+**October 19.** [Dave Gabai](https://www.math.princeton.edu/people/david-gabai), Princeton University - *Loops of multi-spheres in $\#_k S^2\times S^2$ and pseudo-isotopy*.
+
+<p style="margin-left: 2em;">
+We discuss how a pseudo-isotopy of $S^4$ induces for some k, a loop of k embedded pairwise disjoint 2-spheres in $\#_k S^2\times S^2$ where the i'th 2-sphere is based at the i'th pt $\times S^2$ and how a loop of spheres induces a pseudo-isotopy. We define a non-trivial invariant with values in $\mathbb{Z}_2$ which vanishes on loops homotopic to ones having geometrically dual spheres.  Joint work with David Gay and Daniel Hartman.
+</p>
     
 
-**October 26.** [Susan Hermiller](https://shermiller.github.io/Susan_Hermiller/), University of Nebraska-Lincoln.
+**October 26.** [Susan Hermiller](https://shermiller.github.io/Susan_Hermiller/), University of Nebraska-Lincoln - *A tale of several unknotting conjectures*.
+
+<p style="margin-left: 2em;">
+Unknotting number is a fundamental measure of how complicated a knot is, measuring how far it is from the unknot via crossing changes. Unknotting number is a challenging invariant to compute; a vast array of tools have been applied to its calculation, and many conjectures have grown up around it. In this talk I will discuss several conjectures aimed at simplifying the task of computing unknotting numbers. I will describe how our resolution of one of these conjectures several years ago led us more recently to resolve another as well as make a new conjecture. This is joint work with Mark Brittenham.
+</p>
     
 
 **November 2.** [Gheehyun Nahm](https://web.math.princeton.edu/~gn4470/), Princeton University.
