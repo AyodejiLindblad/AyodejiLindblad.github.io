@@ -77,6 +77,9 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 * Boundary Dehn twists are often commutators. *[Stanford topology seminar](https://mathematics.stanford.edu/events/topology)*, 2026.  
     I will give an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194) which proves that boundary Dehn twists can often be concretely represented as commutators in the smooth mapping class group rel boundary, notably showing that they often become trivial after abelianization.
   
+* Boundary Dehn twists are often commutators. *[Berkeley topology seminar](https://sites.google.com/view/siddhi-krishna/berkeley-topology-seminar?authuser=0)*, 2026.  
+    I will give an overview of [my work of the same name](https://arxiv.org/pdf/2604.13194).
+  
 * Boundary Dehn twists are often commutators. *[AMS Special Session on Geometric and Analytic Aspects of Gauge Theory](https://meetings.ams.org/math/fall2026e/meetingapp.cgi/Paper/61828)*, 2026.  
     Slides from the talk can be found [at this link](talks/Boundary-Dehn-twists-are-often-commutators-(slides).pdf).
 
