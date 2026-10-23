@@ -133,9 +133,13 @@ Joint with [Enrico Colón](https://www.math.harvard.edu/people/colon-enrico/), [
 <div id="organization" class="toc-jump"></div>
 **Organization:**
 
-* [The MIT Geometry & Topology Seminar](/seminars/MIT-G&T-FA26/). *MIT*, 2026-2027.  
-Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584).
-    We will co-organize the MIT Geometry & Topology Seminar for the 2026-2027 academic year.
+* [The MIT Geometry & Topology Seminar](/seminars/MIT-G&T-SP27/). *MIT*, 2027.  
+Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584) and [Tom Mrowka](https://math.mit.edu/~mrowka/).
+    We will co-organize the MIT Geometry & Topology Seminar during Spring 2026.
+
+* [The MIT Geometry & Topology Seminar](/seminars/MIT-G&T-FA26/). *MIT*, 2026.  
+Joint with [Joye Chen](https://math.mit.edu/directory/profile.html?pid=2584) and [Tom Mrowka](https://math.mit.edu/~mrowka/).
+    We are co-organizing the MIT Geometry & Topology Seminar for Fall 2026.
   
 * [The K3@MIT gathering in low-dimensional topology](https://sites.google.com/view/k3mit/home). *MIT*, 2026.  
 Joint with [Evan Scott](https://sites.google.com/view/evanscott/home) and [Ollie Thakar](https://sites.google.com/math.harvard.edu/ollie-thakar/home).
