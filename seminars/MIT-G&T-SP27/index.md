@@ -19,7 +19,7 @@ layout: default
     line-height:1.05;
     white-space:nowrap;
   ">
-    The MIT Geometry &amp; Topology Seminar, Fall 2026
+    The MIT Geometry &amp; Topology Seminar, Spring 2027
   </h1>
 </div>
 
