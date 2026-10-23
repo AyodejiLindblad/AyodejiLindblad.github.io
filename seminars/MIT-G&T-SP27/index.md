@@ -15,7 +15,7 @@ layout: default
   <h1 style="
     margin:0;
     text-align:center;
-    font-size:4.4cqi;
+    font-size:4.1644cqi;
     line-height:1.05;
     white-space:nowrap;
   ">
