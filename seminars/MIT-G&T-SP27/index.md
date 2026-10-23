@@ -38,33 +38,33 @@ Welcome to the website for the Spring 2027 iteration of the MIT Geometry & Topol
 
 ---
 
-**February 8.** [Speaker](), Institution.
+**February 8.** [Speaker TBD](), Institution.
 
 **February 15.** No speaker - *Presidents' Day*.
 
-**February 22.** [Speaker](), Institution.
+**February 22.** [Speaker TBD](), Institution.
 
-**March 1.** [Speaker](), Institution.
+**March 1.** [Speaker TBD](), Institution.
 
-**March 8.** [Speaker](), Institution.
+**March 8.** [Speaker TBD](), Institution.
 
-**March 15.** [Speaker](), Institution.
+**March 15.** [Speaker TBD](), Institution.
 
 **March 22.** No speaker - *Spring Break*.
 
-**March 29.** [Speaker](), Institution.
+**March 29.** [Speaker TBD](), Institution.
 
-**April 5.** [Speaker](), Institution.
+**April 5.** [Speaker TBD](), Institution.
 
-**April 12.** [Speaker](), Institution.
+**April 12.** [Speaker TBD](), Institution.
 
 **April 19.** No speaker - *Patriots' Day*.
 
-**April 26.** [Speaker](), Institution.
+**April 26.** [Speaker TBD](), Institution.
 
-**May 3.** [Speaker](), Institution.
+**May 3.** [Speaker TBD](), Institution.
 
-**May 10.** [Speaker](), Institution.
+**May 10.** [Speaker TBD](), Institution.
 
 ---
 
