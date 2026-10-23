@@ -25,7 +25,7 @@ layout: default
 
 ---
 
-<figure style="margin:0; width:101%;">
+<figure style="margin:0; width:100%;">
   <img src="/figures/Disk-decomposition-(no-labels).jpg"
        style="display:block; width:100%; height:auto; max-width:none; max-height:none;">
 </figure>
