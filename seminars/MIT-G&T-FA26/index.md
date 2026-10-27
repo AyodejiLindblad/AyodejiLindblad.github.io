@@ -81,7 +81,12 @@ Unknotting number is a fundamental measure of how complicated a knot is, measuri
 </p>
     
 
-**November 2.** [Gheehyun Nahm](https://web.math.princeton.edu/~gn4470/), Princeton University.
+**November 2.** [Gheehyun Nahm](https://web.math.princeton.edu/~gn4470/), Princeton University - *An irreducible real projective plane in the 4-sphere*.
+
+<p style="margin-left: 2em;">
+One challenge in studying knotted surfaces (surfaces embedded in 4-manifolds) is producing "genuinely new" examples. For example, until recently, every known knotted real projective plane in the 4-sphere could be expressed as the connected sum of a knotted 2-sphere and an unknotted real projective plane. Such knotted real projective planes are called reducible, or of Kinoshita type, and the Kinoshita conjecture stated that every knotted real projective plane in the 4-sphere is reducible.
+I will begin by reviewing some constructions of knotted surfaces and surveying previous work on knotted real projective planes and irreducible knotted surfaces of other topological types. Then, I will present an irreducible real projective plane in the 4-sphere, which is joint work with Mark Hughes, Seungwon Kim, and Maggie Miller.
+</p>
     
 
 **November 9.** [Richard Bamler](https://rbamler.github.io/), University of California Berkeley.
