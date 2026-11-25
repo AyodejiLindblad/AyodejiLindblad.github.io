@@ -89,10 +89,22 @@ I will begin by reviewing some constructions of knotted surfaces and surveying p
 </p>
     
 
-**November 9.** [Richard Bamler](https://rbamler.github.io/), University of California Berkeley.
+**November 9.** [Richard Bamler](https://rbamler.github.io/), University of California Berkeley - *Ancient cylindrical mean curvature flows and the Mean Convex Neighborhood Conjecture*.
+
+<p style="margin-left: 2em;">
+We resolve the Mean Convex Neighborhood Conjecture for mean curvature flows in all dimensions and for all types of cylindrical singularities. Specifically, we show that if the tangent flow at a singular point is a multiplicity-one cylinder, then in a neighborhood of that point the flow is mean-convex, its time-slices arise as level sets of a continuous function, and all nearby tangent flows are cylindrical. Moreover, we establish a canonical neighborhood theorem near such points, which characterizes the flow via local models. Our proof relies on a complete classification of ancient, asymptotically cylindrical flows. We prove that any such flow is non-collapsed, convex, rotationally symmetric, and belongs to one of three canonical families: ancient ovals, the bowl soliton, or the flying wing translating solitons.
+
+Our approach relies on two new techniques. The first, called the PDE-ODI principle, converts a broad class of parabolic differential equations into systems of ordinary differential inequalities. This framework bypasses many delicate analytic estimates used in previous work, and yields asymptotic expansions to arbitrarily high order. The second combines a new leading mode condition combined with an "induction over thresholds" argument" to obtain even finer asymptotic estimates.
+
+This is joint work with Yi Lai.
+</p>
     
 
-**November 16.** [Liam Watson](https://personal.math.ubc.ca/~liam/), Universiry of British Columbia.
+**November 16.** [Liam Watson](https://personal.math.ubc.ca/~liam/), Universiry of British Columbia - *Structure in knot homology via Fukaya categories of punctured disks*.
+
+<p style="margin-left: 2em;">
+Work with Kotelskiy and Zibrowius reformulates Bar-Natan’s relative version of Khovanov homology for tangles in terms of immersed multicurves in a 3-punctured disk. Said another way, invariants of tangles are recast as objects in the wrapped Fukaya category of this punctured disk, and the Bar-Natan invariant associated with a knot assembled from two tangles can be computed from the intersection of the associated objects. This perspective is useful towards establishing mutation invariance (over fields) for reduced Khovanov homology, for instance. Bar-Natan’s invariant admits a module structure, but this structure is not immediately obvious when considering intersections of multicurves. This talk will describe some ongoing work with Wenzhao Chen, which extracts the module structure from the intersection picture. 
+</p>
     
 
 **November 23.** No speaker - *Thanksgiving week*.
