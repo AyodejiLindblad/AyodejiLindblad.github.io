@@ -110,8 +110,11 @@ Work with Kotelskiy and Zibrowius reformulates Bar-Natan’s relative version of
 **November 23.** No speaker - *Thanksgiving week*.
     
 
-**November 30.** [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html), Boston College. 
-    
+**November 30.** [Mira Wattal](https://www.bc.edu/bc-web/schools/morrissey/departments/math/people/grad-students/Mira-Wattal.html), Boston College - *Cutting and pasting skein lasagna modules*. 
+
+<p style="margin-left: 2em;">
+Skein lasagna modules are a rapidly evolving tool developed for the study of 4-manifolds. We'll begin with a unified presentation of handle attachments for this 4-manifold invariant (defined with any suitable link theory), which generalizes existing formulae of Chen, Manolescu-Neithalath, Manolescu-Walker-Wedrich, and Ren-Willis; and end with an application to Gluck twisting. Time permitting, we'll discuss an extension of the first result to a variant of skein lasagna modules due to Ren-Sullivan-Wedrich-Willis-Zhang. (The first result is joint work with Gage Martin and Mary Stelow, the second is upcoming solo-work, and third is upcoming joint work with Gage Martin.)
+</p>
     
 **December 7.** [Chris Scaduto](https://www.math.miami.edu/~cscaduto/index.html), University of Miami.
     
